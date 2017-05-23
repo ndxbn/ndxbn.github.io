@@ -1,4 +1,5 @@
-ndxbn/ndxbn.github.io
+Welcome to ndxbn.github.io
 
-[./sand-box/index](./sand-box/index)
-[./sandbox/index](./sandbox/index)
+Some my repository has documents by github pages. This page is their links page.
+
+* [my sand-box reposotory](/sand-box/index)
