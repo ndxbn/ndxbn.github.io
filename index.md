@@ -1,3 +1,4 @@
 ndxbn/ndxbn.github.io
 
-[link](./sand-box/index)
+[./sand-box/index](./sand-box/index)
+[./sandbox/index](./sandbox/index)
