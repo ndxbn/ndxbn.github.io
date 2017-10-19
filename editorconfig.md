@@ -1,3 +1,5 @@
+# .editorconfig file template
+
 ```
 root = true
 
@@ -11,6 +13,9 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.{css,sass,less,styl}]
+indent_size = 2
 
 [*.rb]
 indent_size = 2
