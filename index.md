@@ -4,7 +4,7 @@ Welcome to ndxbn.github.io
 Some my repositories have documents by github pages. This page is their links page.
 
 * [sand-box reposotory](https://github.com/ndxbn/sand-box)
-* [`.editorconfig` file template](https://github.com/ndxbn/editorconfig)
+* [`.editorconfig` file template](https://ndxbn.github.io/editorconfig)
 * [micro Type Script project template installer](https://github.com/ndxbn/ts)
 
 ## My Templates Links
