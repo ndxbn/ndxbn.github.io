@@ -5,7 +5,6 @@ Some my repositories have documents by github pages. This page is their links pa
 
 * [sand-box reposotory](https://github.com/ndxbn/sand-box)
 * [`.editorconfig` file template](https://ndxbn.github.io/editorconfig)
-* [micro Type Script project template installer](https://github.com/ndxbn/ts)
 
 ## My Templates Links
 
