@@ -1,3 +1,5 @@
+I use www.onamae.com to register domains.
+
 ## ndxbn.tokyo
 
 * ndxbn.tokyo
