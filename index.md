@@ -1,10 +1,10 @@
 Welcome to ndxbn.github.io
 
-## My Repositories Links 
-Some my repositories have documents by github pages. This page is their links page.
+## List of Contents
+[ndxbn.github.io](https://ndxbn.github.io) hosts some contents.
 
-* [sand-box reposotory](https://github.com/ndxbn/sand-box)
-* [`.editorconfig` file template](https://ndxbn.github.io/editorconfig)
+* [`.editorconfig` file template](./editorconfig)
+* [List of ndxbn.tokyo Domain](./list_of_domain)
 
 ## My Templates Links
 
