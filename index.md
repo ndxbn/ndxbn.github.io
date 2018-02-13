@@ -4,7 +4,7 @@ Welcome to ndxbn.github.io
 [ndxbn.github.io](https://ndxbn.github.io) hosts some contents.
 
 * [`.editorconfig` file template](./editorconfig)
-* [List of ndxbn.tokyo Domain](./list_of_domain)
+* [List of ndxbn.tokyo Domain](./domain_list)
 
 ## My Templates Links
 
