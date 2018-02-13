@@ -6,7 +6,6 @@ I use www.onamae.com to register domains.
 * www.ndxbn.tokyo
 * home.ndxbn.tokyo
 * gce.ndxbn.tokyo
-* drone.ndxbn.tokyo
 
 ### ndxbn.tokyo
 Front page of ndxbn.tokyo domain.
@@ -22,21 +21,16 @@ use case
 
 * TBD
 
-### home.ndxbn.tokyo
-Front page of my home server.
-
-use case
-
-* ping to my home server
-
 ### gce.ndxbn.tokyo
 
 use case
 
 * ping to my GCE server
 
-### drone.ndxbn.tokyo
+### home.ndxbn.tokyo
+Front page of my home server.
 
 use case
 
-* CI
+* ping to my home server
+* host large files (>= 100 MB)
