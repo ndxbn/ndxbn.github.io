@@ -2,7 +2,7 @@ I use www.onamae.com to register domains.
 
 ```uml
 @startuml
-ckloud Google_Compute_Engine
+cloud Google_Compute_Engine
 @enduml
 ```
 
