@@ -1,5 +1,11 @@
 I use www.onamae.com to register domains.
 
+```uml
+@startuml
+cloud Google_Compute_Engine
+@enduml
+```
+
 ## ndxbn.tokyo
 
 * ndxbn.tokyo
