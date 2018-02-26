@@ -5,7 +5,7 @@ Welcome to ndxbn.github.io
 
 * [`.editorconfig` file template](./editorconfig)
 * [List of ndxbn.tokyo Domain](./domain_list)
-* [composer configuration that use in Japane](./composer.js)
+* [composer configuration that use in Japane](./composer)
 
 ## My Templates Links
 
