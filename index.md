@@ -9,4 +9,4 @@ Welcome to ndxbn.github.io
 
 ## My Templates Links
 
-* [README.md](https://gist.github.com/ndxbn/87ab3f13cacaf2295367b891bc0c6abc)
+* [README.md](./readme-template.md)
