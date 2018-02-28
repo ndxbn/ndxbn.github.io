@@ -1,36 +1,41 @@
-I use www.onamae.com to register domains.
+This page is documents; "lists of my domains" and "internal usecases about each domains".
 
-## ndxbn.tokyo
+このページは、「私の使用しているドメインのリスト」と「それぞれのドメインの使用用途」についてのドキュメントです。
+
+## List of my domains 
 
 * ndxbn.tokyo
 * www.ndxbn.tokyo
 * home.ndxbn.tokyo
 * gce.ndxbn.tokyo
 
+## ndxbn.tokyo
 ### ndxbn.tokyo
-Front page of ndxbn.tokyo domain.
+Facade.
 
-use case
+use case:
 
 * verify SSL certification
-* proxy
+* proxy to another domain that is based on accessed port
 
 ### www.ndxbn.tokyo
+Web Service.
 
-use case
+use case:
 
 * TBD
 
 ### gce.ndxbn.tokyo
 
-use case
+use case:
 
 * ping to my GCE server
 
 ### home.ndxbn.tokyo
-Front page of my home server.
+my home server.
 
-use case
+use cases:
 
 * ping to my home server
-* host large files (>= 100 MB)
+* host large files (>= 100 MB) which delivary to Japane
+* CI/CD
