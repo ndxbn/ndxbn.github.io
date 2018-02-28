@@ -1,21 +1,12 @@
+```markdown
 # Title
 
-## Getting Started
-
-### Rquirement
+# Rquirement
 
 - foo
 
-### Installing
+# Installing
 
-```bash
+# Quick Example
 
 ```
-
-### Quick Example
-
-```bash
-:
-```
-
-## API
