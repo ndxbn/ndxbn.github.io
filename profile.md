@@ -6,10 +6,10 @@
 - Primary ID: ndxbnW
 - Domain: ndxbn.tokyo
 
-My primary handle name is `sitri`, origin is demons in the Ars Goetia. I had sometimes name TRPG characters, spinoff of daemons/angels (about 14-18 years old).
+My primary handle name is `sitri`, origin is demon in the Ars Goetia. I had sometimes name TRPG characters, spinoff of daemons/angels (about 14-18 years old).
 
 I almost use `sitri@ndxbn` signature. 
-Almost not collision my handle, but not always. (e.g. [ndxbn chocolatey account](https://chocolatey.org/profiles/ndxbn) is not me, [sitri](https://chocolatey.org/profiles/sitri) is mine.)
+Almost not collision my handle, but not always. (e.g. chocolatey account [ndxbn](https://chocolatey.org/profiles/ndxbn) is NOT ME, [sitri is mine](https://chocolatey.org/profiles/sitri).)
 
 ## Accounts
 I use these services primarily.
