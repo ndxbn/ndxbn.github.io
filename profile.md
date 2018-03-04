@@ -3,7 +3,7 @@
 ### Handle Name
 
 - Handle: sitri
-- Primary ID: ndxbnW
+- Primary ID: ndxbn
 - Domain: ndxbn.tokyo
 
 My primary handle name is `sitri`, origin is demon in the Ars Goetia. I had sometimes name TRPG characters, spinoff of daemons/angels (about 14-18 years old).
