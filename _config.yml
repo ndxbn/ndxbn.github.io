@@ -1,1 +1,13 @@
-# nothing
+# For Atom Feed
+domain: ndxbn.github.io
+author: ndxbn
+email: sitri.ndxbn@gmail.com
+
+# Jekyll
+timezone: Asia/Tokyo
+future: false
+markdown: kramdown
+kramdown:
+  input: GFM
+## template
+highlighter: rouge
