@@ -1,1 +1,10 @@
-# nothing
+titlle: ndxbn home page
+description: my page
+url: https://ndxbn.github.io
+twitter_username: ndxbn
+github_username: ndxbn
+
+markdown: kramdown
+
+plugins:
+
