@@ -1,10 +1,20 @@
+# basic config
 titlle: ndxbn home page
 description: my page
 url: https://ndxbn.github.io
 twitter_username: ndxbn
 github_username: ndxbn
 
+# For Atom Feed
+domain: ndxbn.github.io
+author: ndxbn
+email: sitri.ndxbn@gmail.com
+
+# Jekyll
+timezone: Asia/Tokyo
+future: false
 markdown: kramdown
-
-plugins:
-
+kramdown:
+  input: GFM
+## template
+highlighter: rouge

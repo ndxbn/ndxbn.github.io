@@ -1,12 +1,12 @@
 Welcome to ndxbn.github.io
 
-## List of Contents
-[ndxbn.github.io](https://ndxbn.github.io) hosts some contents.
+## Lists of Lists
 
-* [`.editorconfig` file template](./editorconfig)
-* [List of ndxbn.tokyo Domain](./domain_list)
-* [composer configuration that use in Japane](./composer.js)
+- [My Profile](./profile)
+- [List of ndxbn.tokyo Domain](./domain_list)
 
-## My Templates Links
+## My Templates
 
-* [README.md](https://gist.github.com/ndxbn/87ab3f13cacaf2295367b891bc0c6abc)
+- [README.md](./readme-template.md)
+- [composer configuration if you use in Japane](./composer)
+- [.editorconfig](./editorconfig)
