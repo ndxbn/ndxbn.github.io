@@ -41,3 +41,33 @@ I have Facebook account, but not using. It is not useful for me.
 - [twpf: ndxbn](http://twpf.jp/ndxbn)
 
 These accounts are use `1 times per month` or more.
+
+## Tech Stack
+### Langualges and Frameworks
+
+- Japanege (日本語)
+- PHP 7+ on Laravel 5.5+
+- JavaScript (Node.js 8+) with TypeScript 2+
+
+### Middle-Wawres
+
+- MySQL 5.6+
+- Redis 3+
+- Ansible 2.4+
+- Vagrant 2+ on VirtualBox
+
+### OS / XaaS
+
+- Windows 10
+- Windows Server 2012 R2
+- CentOS 7
+- Google Cloud Platform
+
+### Machines and Infrastructure
+
+- [ASUS Chromebook C300](https://www.asus.com/jp/Laptops/ASUS_Chromebook_C300/)
+- [ASUS ROG G701VIK](https://www.asus.com/jp/Laptops/ROG-G701VIK/specifications/)
+- [OKI C301dn](http://www.oki.com/jp/printing/products/color/discontinued/c301dn/index.html)
+- Sony Xperia Series
+
+I will add {router, switching-hub, Server Machine, another printer, and more...} into list.
