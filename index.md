@@ -9,4 +9,4 @@ Welcome to ndxbn.github.io
 
 - [README.md](./readme-template.md)
 - [composer configuration if you use in Japane](./composer)
-- [.editorconfig](./editorconfig)
+- [.editorconfig](https://github.com/ndxbn/dotfiles/blob/master/editor/.editorconfig)
