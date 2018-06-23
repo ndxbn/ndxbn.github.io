@@ -3,7 +3,6 @@ Welcome to ndxbn.github.io
 ## Lists of Lists
 
 - [My Profile](./profile)
-- [List of ndxbn.tokyo Domain](./domain_list)
 
 ## My Templates
 
