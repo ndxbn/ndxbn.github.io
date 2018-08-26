@@ -1,5 +1,7 @@
 Welcome to ndxbn.github.io
 
+This site is my sandbox and development stage for [www.ndxbn.tokyo](//www.ndxbn.tokyo) .
+
 ## Lists of Lists
 
 - [My Profile](./profile)
