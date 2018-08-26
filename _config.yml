@@ -1,7 +1,8 @@
 # basic config
-titlle: ndxbn home page
+title: ndxbn home page
 description: my page
 url: https://ndxbn.github.io
+repository: ndxbn/ndxbn.github.io
 twitter_username: ndxbn
 github_username: ndxbn
 
