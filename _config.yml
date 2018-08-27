@@ -67,7 +67,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
-  - jekyll-sitemaps
+  - jekyll-sitemap
   - jekyll-avatar
   - jemoji
   - jekyll-mentions
