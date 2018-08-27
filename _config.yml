@@ -63,21 +63,21 @@ kramdown:
 # - jekyll-default-layout
 # - jekyll-titles-from-headings
 ## Optionals
-plugins: []
-#  - jekyll-feed
-#  - jekyll-redirect-from
-#  - jekyll-seo-tag
-#  - jekyll-sitemaps
-#  - jekyll-avatar
-#  - jemoji
-#  - jekyll-mentions
-#  - jekyll-include-cache
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemaps
+  - jekyll-avatar
+  - jemoji
+  - jekyll-mentions
+  - jekyll-include-cache
 
 # Plugins Config
 ## common
 title: ndxbn sandbox
 description: ndxbn sandbox description
-# authors -> see /_data/authors.yml
+# authors -> see _data/authors.yml
 
 ## Default Plugins
 # jekyll-coffeescript
@@ -139,5 +139,5 @@ repository: ndxbn/ndxbn.github.io
 #  src: "/assets/images/emoji"
 
 # jekyll-mentions
-#jekyll-mentions:
-#  base_url: https://twitter.com
+jekyll-mentions:
+  base_url: https://twitter.com
