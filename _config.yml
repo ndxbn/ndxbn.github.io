@@ -1,21 +1,154 @@
-# basic config
-title: ndxbn home page
-description: my page
-url: https://ndxbn.github.io
-repository: ndxbn/ndxbn.github.io
-twitter_username: ndxbn
-github_username: ndxbn
-
-# For Atom Feed
-domain: ndxbn.github.io
-author: ndxbn
-email: sitri.ndxbn@gmail.com
-
 # Jekyll
+# https://jekyllrb-ja.github.io/docs/configuration/
+# ただし、変更できない項目は削除済み
+#layouts:     ./_layouts
+#include:     ['.htaccess']
+#exclude:     []
+#keep_files:  ['.git','.svn']
+#timezone:    nil
+#encoding:    nil
 timezone: Asia/Tokyo
+encoding: UTF-8
+
+#future:      true
+#show_drafts: nil
+#limit_posts: 0
+#pygments:    true
 future: false
+
+#relative_permalinks: true
+
+#permalink:     date
+#paginate_path: 'page:num'
+
+#markdown:      maruku
+#markdown_ext:  markdown,mkd,mkdn,md
 markdown: kramdown
+
+#excerpt_separator: "\n\n"
+
+#url:         http://localhost:4000
+url: https://ndxbn.github.io
+
+#kramdown:
+#  input: nil
+#  auto_ids: true
+#  footnote_nr: 1
+#  entity_output: as_char
+#  toc_levels: 1..6
+#  smart_quotes: lsquo,rsquo,ldquo,rdquo
+#  use_coderay: false
 kramdown:
   input: GFM
-## template
-highlighter: rouge
+#  coderay:
+#    coderay_wrap: div
+#    coderay_line_numbers: inline
+#    coderay_line_numbers_start: 1
+#    coderay_tab_width: 4
+#    coderay_bold_every: 10
+#    coderay_css: style
+
+
+# Plugins
+# https://help.github.com/articles/configuring-jekyll-plugins/
+# https://pages.github.com/versions/
+## Defaults ( auto imported, cannot disable )
+# - jekyll-coffeescript
+# - jekyll-gist
+# - jekyll-github-metadata
+# - jekyll-paginate
+# - jekyll-relative-links
+# - jekyll-optional-front-matter
+# - jekyll-readme-index
+# - jekyll-default-layout
+# - jekyll-titles-from-headings
+## Optionals
+plugins: []
+#  - jekyll-feed
+#  - jekyll-redirect-from
+#  - jekyll-seo-tag
+#  - jekyll-sitemaps
+#  - jekyll-avatar
+#  - jemoji
+#  - jekyll-mentions
+#  - jekyll-include-cache
+
+# Plugins Config
+## common
+title: ndxbn sandbox
+description: ndxbn sandbox description
+author:
+  name: ndxbn
+  email: sitri.ndxbn@gmail.com
+  uri: "https://www.ndxbn.tokyo"
+  twitter: ndxbn
+  github: ndxbn
+
+## Default Plugins
+# jekyll-coffeescript
+## nothing
+
+# jekyll-gist
+## cannot change
+# gist:
+#   noscript: false
+
+# jekyll-github-metadata
+repository: ndxbn/ndxbn.github.io
+
+# jekyll-paginate
+## nothing
+
+# jekyll-relative-links
+#relative_links:
+#  enabled:     true
+#  collections: false
+
+# jekyll-optional-front-matter
+#optional_front_matter:
+#  remove_originals: true
+
+# jekyll-readme-index
+#readme_index:
+#  enabled:          true
+#  remove_originals: false
+
+# jekyll-default-layout
+## nothing
+
+# jekyll-titles-from-headings
+#titles_from_headings:
+#  enabled:     true
+#  strip_title: false
+#  collections: false
+
+## Optional Plugins
+# jekyll-feed
+#feed:
+#  path: atom.xml
+
+# jekyll-redirect-from
+## nothing
+
+# jekyll-seo-tag
+## https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+
+# jekyll-sitemap
+## nothing
+
+# jekyll-avatar
+## nothing
+
+# jemoji
+#emoji:
+#  src: "/assets/images/emoji"
+
+# jekyll-mentions
+#jekyll-mentions:
+#  base_url: https://twitter.com
+
+# jekyll-include-cache
+
+### 以下、未整理
+## minima; default template config
+
