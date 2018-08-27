@@ -77,12 +77,7 @@ plugins: []
 ## common
 title: ndxbn sandbox
 description: ndxbn sandbox description
-author:
-  name: ndxbn
-  email: sitri.ndxbn@gmail.com
-  uri: "https://www.ndxbn.tokyo"
-  twitter: ndxbn
-  github: ndxbn
+# authors -> see /_data/authors.yml
 
 ## Default Plugins
 # jekyll-coffeescript
@@ -146,9 +141,3 @@ repository: ndxbn/ndxbn.github.io
 # jekyll-mentions
 #jekyll-mentions:
 #  base_url: https://twitter.com
-
-# jekyll-include-cache
-
-### 以下、未整理
-## minima; default template config
-
