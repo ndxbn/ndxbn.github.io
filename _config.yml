@@ -15,6 +15,7 @@ encoding: UTF-8
 #limit_posts: 0
 #pygments:    true
 future: false
+show_drafts: true
 
 #relative_permalinks: true
 
