@@ -21,6 +21,7 @@ show_drafts: true
 
 #permalink:     date
 #paginate_path: 'page:num'
+permalink: /blog/:year/:month/:day/:title
 
 #markdown:      maruku
 #markdown_ext:  markdown,mkd,mkdn,md
