@@ -14,3 +14,4 @@ This site is my sandbox and development stage for [www.ndxbn.tokyo](//www.ndxbn.
 - [composer configuration if you use in Japane](./composer)
 - [.editorconfig](https://github.com/ndxbn/dotfiles/blob/master/editor/.editorconfig)
 
+[/test](/test)
