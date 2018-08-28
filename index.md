@@ -17,4 +17,4 @@ This site is my sandbox and development stage for [www.ndxbn.tokyo](//www.ndxbn.
 ## testing pages
 
 - [/test](/test)
-- [/octicons](/octicons_test)
+- [/octicons](/blog/2018/08/29/testing-octicons)
