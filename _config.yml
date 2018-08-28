@@ -72,7 +72,6 @@ plugins:
   - jekyll-avatar
   - jemoji
   - jekyll-mentions
-  - jekyll-include-cache
 
 # Plugins Config
 ## common
