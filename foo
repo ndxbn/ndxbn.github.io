@@ -1,0 +1,7 @@
+---
+colors:
+  - red
+  - blue
+  - green
+---
+{{ page.colors | jsonify }}
