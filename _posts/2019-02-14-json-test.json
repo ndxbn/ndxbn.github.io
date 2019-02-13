@@ -1,3 +1,4 @@
 ---
 foo_var: hogehoge
 ---
+{{ page.foo_var | jsonify }}
