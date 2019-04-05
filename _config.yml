@@ -1,70 +1,23 @@
 # Jekyll
 # https://jekyllrb-ja.github.io/docs/configuration/
-# ただし、変更できない項目は削除済み
-#layouts:     ./_layouts
-#include:     ['.htaccess']
-#exclude:     []
-#keep_files:  ['.git','.svn']
-#timezone:    nil
-#encoding:    nil
 timezone: Asia/Tokyo
 encoding: UTF-8
 
-#future:      true
-#show_drafts: nil
-#limit_posts: 0
-#pygments:    true
 future: false
 show_drafts: false
 
 #relative_permalinks: true
+permalink: /blog/:year-:month-:day/:slug:output_ext
 
-#permalink:     date
-#paginate_path: 'page:num'
-permalink: /blog/:year/:month/:day/:title
+url: https://www.ndxbn.tokyo
 
-#markdown:      maruku
-#markdown_ext:  markdown,mkd,mkdn,md
-markdown: kramdown
-
-#excerpt_separator: "\n\n"
-
-#url:         http://localhost:4000
-url: https://ndxbn.github.io
-
-#kramdown:
-#  input: nil
-#  auto_ids: true
-#  footnote_nr: 1
-#  entity_output: as_char
-#  toc_levels: 1..6
-#  smart_quotes: lsquo,rsquo,ldquo,rdquo
-#  use_coderay: false
 kramdown:
   input: GFM
-#  coderay:
-#    coderay_wrap: div
-#    coderay_line_numbers: inline
-#    coderay_line_numbers_start: 1
-#    coderay_tab_width: 4
-#    coderay_bold_every: 10
-#    coderay_css: style
 
 
 # Plugins
 # https://help.github.com/articles/configuring-jekyll-plugins/
 # https://pages.github.com/versions/
-## Defaults ( auto imported, cannot disable )
-# - jekyll-coffeescript
-# - jekyll-gist
-# - jekyll-github-metadata
-# - jekyll-paginate
-# - jekyll-relative-links
-# - jekyll-optional-front-matter
-# - jekyll-readme-index
-# - jekyll-default-layout
-# - jekyll-titles-from-headings
-## Optionals
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
@@ -79,24 +32,12 @@ plugins:
 
 # Plugins Config
 ## common
-title: ndxbn sandbox
-description: ndxbn sandbox description
-# authors -> see _data/authors.yml
+title: ndxbn.tokyo
+description: ndxbn's personal web site
 
-## Default Plugins
-# jekyll-coffeescript
-## nothing
-
-# jekyll-gist
-## cannot change
-# gist:
-#   noscript: false
 
 # jekyll-github-metadata
 repository: ndxbn/ndxbn.github.io
-
-# jekyll-paginate
-## nothing
 
 # jekyll-relative-links
 #relative_links:
@@ -109,11 +50,8 @@ repository: ndxbn/ndxbn.github.io
 
 # jekyll-readme-index
 #readme_index:
-#  enabled:          true
+#  enabled: true
 #  remove_originals: false
-
-# jekyll-default-layout
-## nothing
 
 # jekyll-titles-from-headings
 #titles_from_headings:
@@ -131,12 +69,6 @@ repository: ndxbn/ndxbn.github.io
 
 # jekyll-seo-tag
 ## https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-
-# jekyll-sitemap
-## nothing
-
-# jekyll-avatar
-## nothing
 
 # jemoji
 #emoji:
