@@ -11,69 +11,18 @@ permalink: /blog/:year-:month-:day/:slug:output_ext
 
 url: https://www.ndxbn.tokyo
 
-kramdown:
-  input: GFM
-
-
 # Plugins
 # https://help.github.com/articles/configuring-jekyll-plugins/
 # https://pages.github.com/versions/
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-avatar
-  - jemoji
-  - jekyll-mentions
-  # not documented yet.
-  # https://github.com/github/pages-gem/commit/0c79d7caf66bf209d08d3ee3829c217716a63479
+    # not documented yet.
+    # https://github.com/github/pages-gem/commit/0c79d7caf66bf209d08d3ee3829c217716a63479
   - jekyll-octicons
 
 # Plugins Config
 ## common
 title: ndxbn.tokyo
 description: ndxbn's personal web site
-
-
-# jekyll-github-metadata
-repository: ndxbn/ndxbn.github.io
-
-# jekyll-relative-links
-#relative_links:
-#  enabled:     true
-#  collections: false
-
-# jekyll-optional-front-matter
-#optional_front_matter:
-#  remove_originals: true
-
-# jekyll-readme-index
-#readme_index:
-#  enabled: true
-#  remove_originals: false
-
-# jekyll-titles-from-headings
-#titles_from_headings:
-#  enabled:     true
-#  strip_title: false
-#  collections: false
-
-## Optional Plugins
-# jekyll-feed
-#feed:
-#  path: atom.xml
-
-# jekyll-redirect-from
-## nothing
-
-# jekyll-seo-tag
-## https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-
-# jemoji
-#emoji:
-#  src: "/assets/images/emoji"
-
-# jekyll-mentions
-jekyll-mentions:
-  base_url: https://twitter.com
