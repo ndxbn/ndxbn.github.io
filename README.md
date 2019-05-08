@@ -1,3 +1,3 @@
-# [ndxbn.github.io](https://ndxbn.github.io)
+My Static Web Site
 
-This repository is on of my sandboxes.
+https://www.ndxbn.tokyo
