@@ -1,5 +1,6 @@
 ---
 ---
+
 # しとりーのプロフィール
 
 ## 名前・ハンドルネーム
@@ -8,10 +9,10 @@
 - Primary ID: ndxbn
 - Domain: ndxbn.tokyo
 
-「しとりー」は、魔導書『ゴエティア』に登場する72柱の魔王の一柱[『シトリー』](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%88%E3%83%AA%E3%83%BC)に由来しています。
+「しとりー」は、魔導書『ゴエティア』に登場する 72 柱の魔王の一柱[『シトリー』](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%88%E3%83%AA%E3%83%BC)に由来しています。
 天使や悪魔の名前をよく TRPG のキャラ名で使っていたのですが、その中でも『シトリー』に愛着があったので、そのまま拝借ました。
 
-「上白沢」は、上海アリス幻樂団の『東方Project』に登場する『[上白沢 慧音](https://dic.pixiv.net/a/%E4%B8%8A%E7%99%BD%E6%B2%A2%E6%85%A7%E9%9F%B3)』に由来しています。
+「上白沢」は、上海アリス幻樂団の『東方 Project』に登場する『[上白沢 慧音](https://dic.pixiv.net/a/%E4%B8%8A%E7%99%BD%E6%B2%A2%E6%85%A7%E9%9F%B3)』に由来しています。
 妹紅も好きなのですが、さすがに藤原姓は使いたくなかったので、上白沢にしました。
 東方に詳しい方は、読みを「かみしらさわ」か「わーはくたく」で迷うかもしれませんが、「かみしらさわ」です。
 
@@ -40,18 +41,16 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 
 あまり使わないけれど、以下のアカウントも自分です。
 
-- [ATND: 120916](https://atnd.org/users/120916)
-- [Everyplay: ndxbn](https://everyplay.com/ndxbn)
-- [Instagram: sitri.ndxbn](https://www.instagram.com/sitri.ndxbn/) 
-- [Klout: ndxbn](https://klout.com/#/ndxbn)
-- [TwitCasting: ndxbn](https://twitcasting.tv/ndxbn/) 
-- [chocolatey: sitri](https://chocolatey.org/profiles/sitri) （ndxbn は別の人なので注意！）
-- [connpass: ndxbn](https://connpass.com/user/ndxbn/)
-- [nana: 322522](https://nana-music.com/users/322522/)
-- [niconico: 3506569](http://www.nicovideo.jp/user/3506569)
-- [pixiv: ndxbn](https://pixiv.me/ndxbn)
+- [TwitCasting: ndxbn](https://twitcasting.tv/ndxbn/)
 - [twilog: ndxbn](http://twilog.org/ndxbn)
 - [twpf: ndxbn](http://twpf.jp/ndxbn)
+- [niconico: 3506569](http://www.nicovideo.jp/user/3506569)
+- [nana: 322522](https://nana-music.com/users/322522/)
+- [pixiv: ndxbn](https://pixiv.me/ndxbn)
+- [Instagram: sitri.ndxbn](https://www.instagram.com/sitri.ndxbn/)
+- [ATND: 120916](https://atnd.org/users/120916)
+- [connpass: ndxbn](https://connpass.com/user/ndxbn/)
+- [chocolatey: sitri](https://chocolatey.org/profiles/sitri) （ndxbn は別の人なので注意！）
 
 マストドンは、いくつか `ndxbn` アカウントは作りましたが、使っていないので割愛。
 
