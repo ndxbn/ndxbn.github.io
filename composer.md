@@ -1,4 +1,4 @@
-If you use composer in Japane, shoud do: 
+If you use composer in Japane, shoud do:
 
 ```bash
 composer config -g repos.packagist composer https://packagist.jp

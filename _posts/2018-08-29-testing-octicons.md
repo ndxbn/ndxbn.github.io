@@ -10,11 +10,10 @@
 {% endraw %}
 ```
 
-will output: 
+will output:
 
 ```html
-{% octicon mark-github %}
-{% octicon logo-github %}
+{% octicon mark-github %} {% octicon logo-github %}
 ```
 
 and render:
@@ -32,7 +31,7 @@ and render:
 {% endraw %}
 ```
 
-will output: 
+will output:
 
 ```html
 {% octicon alert height:32 class:"right left" aria-label:hi %}
