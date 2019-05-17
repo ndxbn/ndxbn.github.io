@@ -1,0 +1,36 @@
+# editor settings
+.idea/
+.vscode/
+
+# dot files
+.*ignore
+.*rc
+.editorconfig
+.tsbuildinfo
+.gitkeep
+
+# repository commons
+LICENSE
+CNAME
+
+# Ruby
+Gemfile
+Gemfile.lock
+
+# project directory
+lib/
+coverage/
+_site/
+
+# Vagrant
+Vagrantfile
+.vagrant/
+
+# extension
+## PlantUML
+*.puml
+## audio
+*.mp3
+
+# template file
+*.*.mustache
