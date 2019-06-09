@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bundle exec jekyll serve",
     "fmt": "prettier --write \"**/*\""
   },
   "devDependencies": {
