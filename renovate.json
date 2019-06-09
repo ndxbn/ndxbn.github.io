@@ -3,8 +3,8 @@
     "config:base",
     ":automergeMinor",
     ":respectLatest",
+    ":prHourlyLimitNone",
     "group:linters",
-    "prHourlyLimitNone",
     "preview:dockerVersions",
     "preview:dockerCompose"
   ]
