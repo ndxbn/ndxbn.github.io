@@ -22,6 +22,9 @@ plugins:
     # https://github.com/github/pages-gem/commit/0c79d7caf66bf209d08d3ee3829c217716a63479
   - jekyll-octicons
 
+sass:
+  style: compressed
+
 # Plugins Config
 ## common
 title: ndxbn.tokyo
