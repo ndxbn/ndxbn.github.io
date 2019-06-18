@@ -8,4 +8,4 @@ coming soon
 - <a rel="me" href="https://twitter.com/ndxbn">Twitter</a>
 - <a rel="me" href="https://github.com/ndxbn">GitHub</a>
 
-完全なリストは、[`/profile`](/profile) を見てくれ。
+他のアカウントのリストは、[`/profile`](/profile) を見てくれ。
