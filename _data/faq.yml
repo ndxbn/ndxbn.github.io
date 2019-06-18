@@ -4,7 +4,7 @@
 ---
 - q: タブ派？スペース？
   a: Indent with tabs, Align with spaces.
-  d: ["Indent with tabs, Align with spaces"](https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces) にある通り。Tab vs Space っていう対立構造を是とする人とは関わりたくありません。
+  d: "[Indent with tabs, Align with spaces](https://dmitryfrank.com/articles/indent_with_tabs_align_with_spaces) にある通り。Tab vs Space っていう対立構造を是とする人とは関わりたくありません。"
 - q: Vim 派？ Emacs 派？
   a: ed派（ネタ）
   d: エディタはデフォで入ってるやつを使ってます。CentOS は Vim だし、Ubuntu だと nano ですかね。普段は Windows ユーザなのですが、基本は Notepad++ を、Administrator 権限が必要なときに notepad.exe を使ってます。
