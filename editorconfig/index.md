@@ -19,3 +19,7 @@ trim_trailing_whitespace = false
 indent_style = space
 indent_size = 2
 ```
+
+# donwload template file
+
+`curl https://www.ndxbn.tokyo/editorconfig/editorconfig -O .editorconfig`
