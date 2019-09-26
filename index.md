@@ -16,6 +16,20 @@
 - [composer](./composer)
 - [editorconfig](./editorconfig)
 
+
+### 自動生成されるやつ
+
+以下のものは、プラグインで自動的に生成されるもの。
+
+- [sitemap](./sitemap)
+- [feed](./feed)
+
+### API
+
+JSON が帰ってくるもの
+
+- [faq](./faq.json)
+
 ## 別リポジトリのやつ
 
 `ndxbn/ndxbn.github.io` リポジトリではなく、それぞれのリポジトリの `docs` ディレクトリで管理されているもの
