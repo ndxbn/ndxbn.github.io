@@ -15,3 +15,10 @@
 
 - [composer](./composer)
 - [editorconfig](./editorconfig)
+
+## 別リポジトリのやつ
+
+`ndxbn/ndxbn.github.io` リポジトリではなく、それぞれのリポジトリの `docs` ディレクトリで管理されているもの
+
+- [provision](./provision)
+- [ndxbn](./ndxbn)
