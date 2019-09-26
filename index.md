@@ -11,3 +11,7 @@
 - [プロフィール](./profile)
 - [職歴](./resume)
 
+## 自分用のやつ
+
+- [composer](./composer)
+- [editorconfig](./editorconfig)
