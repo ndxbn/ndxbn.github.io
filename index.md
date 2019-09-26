@@ -29,6 +29,7 @@
 JSON が帰ってくるもの
 
 - [faq](./faq.json)
+- [faq.schema](./faq.schema.json)
 
 ## 別リポジトリのやつ
 
