@@ -35,6 +35,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - [Twitter: ndxbn](https://twitter.com/ndxbn)
 - [GitHub: ndxbn](https://github.com/ndxbn)
 - [Qiita: ndxbn](https://qiita.com/ndxbn)
+- [FINAL FANTASY XIV](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)
 - [Gravatar: suzuki04](https://ja.gravatar.com/suzukik04)
 - [読書メーター: 462571](https://bookmeter.com/users/462571)
 - [小説家になろう: 546397](https://mypage.syosetu.com/546397/)（ROM 専）
