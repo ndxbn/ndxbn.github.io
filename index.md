@@ -11,11 +11,10 @@
 - [プロフィール](./profile)
 - [職歴](./resume)
 
-## 自分用のやつ
+### 自分用のやつ
 
 - [composer](./composer)
 - [editorconfig](./editorconfig)
-
 
 ### 自動生成されるやつ
 
