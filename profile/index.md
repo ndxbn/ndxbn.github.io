@@ -78,3 +78,13 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - [ASUS ROG G701VIK](https://www.asus.com/jp/Laptops/ROG-G701VIK/specifications/)
 - [OKI C301dn](http://www.oki.com/jp/printing/products/color/discontinued/c301dn/index.html)
 - Sony Xperia Series
+
+## FF14
+
+[ロドストのページはこちら](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)。
+
+![FF14 Charactor Profile Card](./ff14-player-charactor-profile-card.jpg)
+
+『下限の民』という [CwLS](https://jp.finalfantasyxiv.com/lodestone/linkshell/27584547717760894/) / FS のマスターをやってます。
+基本的には、「フェローシップに1週間分の予定を書き、PT募集を出し、下限の CWLS いくつかに情報を流す」だけです。
+時期や時間帯によっては、人が集まらなくて中止ということも割とあります。
