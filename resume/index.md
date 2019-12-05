@@ -58,11 +58,9 @@
 - server side TypeScript 2.4 or later
 - MySQL 5.7 or later
 - MongoDB 2.6 or later
-- Redisd 3 or later
+- Redis 3 or later
 - RabbitMQ 3.6.7 or later
-- Apache HBase
 - Apache Zookeeper 3.5.5 or later
-- Apache Thrift 0.12.0 or later
 - CentOS 7 or later
 - Docker
 - Ansible
