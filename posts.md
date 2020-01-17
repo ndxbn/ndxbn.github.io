@@ -2,5 +2,5 @@
 ---
 
 {% for post in site.posts %}
-- [{{ post.slug }}]({{post.url}})
+- [{{ post.title }}]({{post.url}}) slug: {{post.slug}}
 {%- endfor %}
