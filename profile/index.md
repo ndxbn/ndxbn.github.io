@@ -83,7 +83,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 
 [ロドストのページはこちら](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)。
 
-![FF14 Charactor Profile Card](./ff14-player-charactor-profile-card.jpg)
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コンテンツは何でもやるよ！！いまはエウレカのレベリングと妖怪ウォッチコラボとサブクエをやってる！！！<br>FS『下限の民』は11月から再開予定。<a href="https://t.co/g79LQZxVl7">https://t.co/g79LQZxVl7</a> <a href="https://twitter.com/hashtag/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AB?src=hash&amp;ref_src=twsrc%5Etfw">#キャラカ</a> <a href="https://twitter.com/hashtag/FF14?src=hash&amp;ref_src=twsrc%5Etfw">#FF14</a> <a href="https://twitter.com/hashtag/FF14%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#FF14キャラクターカード</a> <a href="https://twitter.com/hashtag/GaiaDC?src=hash&amp;ref_src=twsrc%5Etfw">#GaiaDC</a> <a href="https://twitter.com/hashtag/Ridill?src=hash&amp;ref_src=twsrc%5Etfw">#Ridill</a> <a href="https://t.co/ZyHYYWdO3Q">pic.twitter.com/ZyHYYWdO3Q</a></p>&mdash; 上白沢しとりー@ひなっ子マヨネーズ係 (@ndxbn) <a href="https://twitter.com/ndxbn/status/1312897535216775168?ref_src=twsrc%5Etfw">October 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 『下限の民』という [CWLS](https://jp.finalfantasyxiv.com/lodestone/linkshell/27584547717760894/) / FS のマスターをやってます。
 基本的には、「フェローシップに1週間分の予定を書き、PT募集を出し、下限の CWLS いくつかに情報を流す」だけです。
