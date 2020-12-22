@@ -58,23 +58,23 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 ## Tech Stack
 
 - 日本語
-- PHP 7
-- TypeScript
-- MySQL
-- Redis
-- Ansible
-- Vagrant
-- Oracle VirtualBox
+- PHP（5.4 から）
+- TypeScript（2.0 から）
+- MySQL（5.4 から）
+- Redis（3 から）
+- RabbitMQ（3.6 から）
+- Ansible（2.4 から）
 
 ### OS / XaaS
 
 - Windows 10
-- ~~Windows Server 2012 R2~~ 自宅鯖で使っていたが、撤去済み。
-- CentOS
+- CentOS（7 まで）
+- Ubuntu（18.04 から）
 - Google Cloud Platform
 
 ### 使ってるマシンやハードウェア
 
+- [自分で組んだPC](https://twitter.com/ndxbn/status/1330039812779347971)
 - [ASUS ROG G701VIK](https://www.asus.com/jp/Laptops/ROG-G701VIK/specifications/)
 - [OKI C301dn](http://www.oki.com/jp/printing/products/color/discontinued/c301dn/index.html)
 - Sony Xperia Series
@@ -83,11 +83,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 
 [ロドストのページはこちら](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コンテンツは何でもやるよ！！いまはエウレカのレベリングと妖怪ウォッチコラボとサブクエをやってる！！！<br>FS『下限の民』は11月から再開予定。<a href="https://t.co/g79LQZxVl7">https://t.co/g79LQZxVl7</a> <a href="https://twitter.com/hashtag/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AB?src=hash&amp;ref_src=twsrc%5Etfw">#キャラカ</a> <a href="https://twitter.com/hashtag/FF14?src=hash&amp;ref_src=twsrc%5Etfw">#FF14</a> <a href="https://twitter.com/hashtag/FF14%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89?src=hash&amp;ref_src=twsrc%5Etfw">#FF14キャラクターカード</a> <a href="https://twitter.com/hashtag/GaiaDC?src=hash&amp;ref_src=twsrc%5Etfw">#GaiaDC</a> <a href="https://twitter.com/hashtag/Ridill?src=hash&amp;ref_src=twsrc%5Etfw">#Ridill</a> <a href="https://t.co/ZyHYYWdO3Q">pic.twitter.com/ZyHYYWdO3Q</a></p>&mdash; 上白沢しとりー@ひなっ子マヨネーズ係 (@ndxbn) <a href="https://twitter.com/ndxbn/status/1312897535216775168?ref_src=twsrc%5Etfw">October 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-『下限の民』という [CWLS](https://jp.finalfantasyxiv.com/lodestone/linkshell/27584547717760894/) / FS のマスターをやってます。
-基本的には、「フェローシップに1週間分の予定を書き、PT募集を出し、下限の CWLS いくつかに情報を流す」だけです。
-時期や時間帯によっては、人が集まらなくて中止ということも割とあります。
+『下限の民』というフェローシップのマスターをやってます。
 
 Sitri Wah というのは、意味としては「半ミコッテ半シトリー」です。
 同様に、 Zepar-wah は「半[ゼパール](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%91%E3%83%AB)」、 Gremory-wah は「半[グレモリー](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%A2%E3%83%AA%E3%83%BC)」、 Fulmur-wah は「半[フール](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%95%E3%83%AB) [ムール](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%83%A0%E3%83%AB)」 です。
@@ -98,7 +94,7 @@ Wah の家系は、名前にこそ悪魔が含まれており、意味も半ミ�
 Wah 家の子たちは、皆なにかしらのフェイスペイントを入れています。
 この家系では骨格がほぼ変わらないのですが、たまに同じような配色の子が同じ時代に二人以上いることがあるので、そういうときにわかりやすくするっていう目的もあるらしいです。
 フェイスペイントは、ほとんどの子は思春期に自分の好きなものを入れてるみたいですが、たまに親が勝手に入れてることもあるみたいです。
-（フェイスペイントって表現してますけど、全然落ちないし、刺青なのでは…？）
+（フェイスペイントって表現してますけど、全然落ちないあたり、ほんとにフェイスペイントなのか謎）
 
 ### ちょっとメタい話
 
