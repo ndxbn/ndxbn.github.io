@@ -9,11 +9,6 @@
     "preview:dockerCompose"
   ],
   "ruby": {
-    "extends": [
-      "config:base",
-      ":automergeMinor",
-      ":respectLatest",
-      ":prHourlyLimitNone"
-    ]
+    "enabled": true
   }
 }
