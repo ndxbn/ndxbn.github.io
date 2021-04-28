@@ -8,7 +8,6 @@ show_drafts: false
 
 #relative_permalinks: true
 permalink: /blog/:year-:month-:day/:slug:output_ext
-
 url: https://www.ndxbn.tokyo
 
 # Plugins
@@ -30,3 +29,7 @@ sass:
 ## common
 title: ndxbn.tokyo
 description: ndxbn's personal web site
+
+## collections
+collections:
+  #posts: // posts は 内部で特別扱いされてる collections の一つ。 /collections.json を見るとよく分かる。
