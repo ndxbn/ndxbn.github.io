@@ -17,10 +17,9 @@
 東方に詳しい方は、読みを「かみしらさわ」か「わーはくたく」で迷うかもしれませんが、「かみしらさわ」です。
 
 ちなみに、本名の名字は「鈴木」です。
-ありふれた名字ですが、家系的にはありふれていなかったりします。（気が向いたらブログ記事に書きます）
 
 英語で自分のハンドルネームを使うときは、普通に Sitri Kamishirasawa としています。
-名字が長すぎて文字数制限に引っかかることが多々あるのが悩みです。
+名字が長すぎて文字数制限に引っかかることが多々あるのが悩み。
 
 ID に使っている ndxbn は、[メイプルストーリーで使っていたメインキャラ](https://maplestory.nexon.co.jp/mypage/avatar/?oid=2030064139&nick=ndxbn)に由来します。
 めいぽで使っていたキャラ名は、すべて左右対称っぽい文字列になっていました。
@@ -34,7 +33,6 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 
 - [Twitter: ndxbn](https://twitter.com/ndxbn)
 - [GitHub: ndxbn](https://github.com/ndxbn)
-- [Qiita: ndxbn](https://qiita.com/ndxbn)
 - [FINAL FANTASY XIV](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)
 - [Gravatar: suzuki04](https://ja.gravatar.com/suzukik04)
 - [読書メーター: 462571](https://bookmeter.com/users/462571)
@@ -78,7 +76,8 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - [自分で組んだPC](https://twitter.com/ndxbn/status/1330039812779347971)
 - [ASUS ROG G701VIK](https://www.asus.com/jp/Laptops/ROG-G701VIK/specifications/)
 - [OKI C301dn](http://www.oki.com/jp/printing/products/color/discontinued/c301dn/index.html)
-- Sony Xperia Series
+- [Xperia](https://xperia.sony.jp/)
+- [iPhone](https://www.apple.com/jp/iphone/)
 
 ## FF14
 
