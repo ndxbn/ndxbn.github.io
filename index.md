@@ -15,7 +15,7 @@
 
 - [composer](./composer)
 - [editorconfig](./editorconfig)
-- [posts](./posts)
+- [blog](./blog)
 
 ### 自動生成されるやつ
 
