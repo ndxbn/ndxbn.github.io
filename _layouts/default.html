@@ -6,12 +6,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="initial-scale=1" />
     <title>{{ site.title }}</title>
-    <meta name="description" content="{{ site.description | strip_newlines }}" />
+    <meta
+      name="description"
+      content="{{ site.description | strip_newlines }}"
+    />
   </head>
   <body>
     {{ content }}
-  <footer>
-{% include footer.html %}
-  </footer>
+    <footer>{% include footer.html %}</footer>
   </body>
 </html>

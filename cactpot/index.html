@@ -9,74 +9,109 @@ https://github.com/ndxbn/ndxbn.github.io
 -->
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>FF14 くじテンダーソルバー</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="./style.css">
-	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-	<script type="text/javascript" src="./js/i18next.min.js"></script>
-	<script type="text/javascript" src="./js/gs-oasis.js"></script>
-	<script type="text/javascript" src="./js/perfect_cactpot.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-</head>
-<body>
-	<nav class="navbar navbar-default">
-		<div class="container">
-			<p class="i18n navbar-text" data-i18n="title">FF14 くじテンダーソルバー</p>
-			<p class="navbar-text navbar-right">
-				<a href="?lang=ja" class="navbar-link">日本語</a> | <a href="?lang=en" class="navbar-link">English</a>
-			</p>
-		</div>
-	</nav>
-	<div class="container">
-		<main>
-			<div class="row">
-			</div>
+  <head>
+    <meta charset="utf-8" />
+    <title>FF14 くじテンダーソルバー</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script
+      type="text/javascript"
+      src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"
+    ></script>
+    <script type="text/javascript" src="./js/i18next.min.js"></script>
+    <script type="text/javascript" src="./js/gs-oasis.js"></script>
+    <script type="text/javascript" src="./js/perfect_cactpot.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+  </head>
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container">
+        <p class="i18n navbar-text" data-i18n="title">
+          FF14 くじテンダーソルバー
+        </p>
+        <p class="navbar-text navbar-right">
+          <a href="?lang=ja" class="navbar-link">日本語</a> |
+          <a href="?lang=en" class="navbar-link">English</a>
+        </p>
+      </div>
+    </nav>
+    <div class="container">
+      <main>
+        <div class="row"></div>
 
-			<div class="row">
-				<div class="col-md-6">
-					<h2 class="i18n" data-i18n="scratch">スクラッチ</h2>
-					<form id="scratchform">
+        <div class="row">
+          <div class="col-md-6">
+            <h2 class="i18n" data-i18n="scratch">スクラッチ</h2>
+            <form id="scratchform">
+              <table
+                id="scratch"
+                class="table table-bordered form-group form-group-sm"
+              >
+                <tbody>
+                  <tr class="exprow">
+                    <td id="exp6" class="exp can6">&nbsp;</td>
+                    <td id="exp3" class="exp can3">&nbsp;</td>
+                    <td id="exp4" class="exp can4">&nbsp;</td>
+                    <td id="exp5" class="exp can5">&nbsp;</td>
+                    <td id="exp7" class="exp can7">&nbsp;</td>
+                  </tr>
+                </tbody>
+              </table>
 
-						<table id="scratch" class="table table-bordered form-group form-group-sm">
-							<tbody>
-								<tr class="exprow">
-									<td id="exp6" class="exp can6">&nbsp;</td>
-									<td id="exp3" class="exp can3">&nbsp;</td>
-									<td id="exp4" class="exp can4">&nbsp;</td>
-									<td id="exp5" class="exp can5">&nbsp;</td>
-									<td id="exp7" class="exp can7">&nbsp;</td>
-								</tr>
-							</tbody>
-						</table>
+              <input
+                type="button"
+                name="solve"
+                value="Solve"
+                onclick="solveScratch()"
+                class="btn btn-lg btn-primary"
+                disabled="disabled"
+              />
+              <input
+                type="button"
+                name="reset"
+                value="Reset"
+                onclick="resetScratch()"
+                class="btn btn-lg btn-default"
+              />
+            </form>
+          </div>
 
-						<input type="button" name="solve" value="Solve" onclick="solveScratch()" class="btn btn-lg btn-primary" disabled="disabled">
-						<input type="button" name="reset" value="Reset" onclick="resetScratch()"
-						class="btn btn-lg btn-default">
-					</form>
-				</div>
-
-				<div class="col-md-3 col-sm-3">
-					<h2 class="i18n" data-i18n="payout">払い出し</h2>
-					<table id="payout" class="table table-condensed form-group form-group-sm">
-						<thead>
-							<tr><th>#</th><th>MGP</th><th>#</th><th>MGP</th></tr>
-						</thead>
-						<tbody></tbody>
-					</table>
-				</div>
-
-			</div>
-		</main>
-		<footer class="row">
-			<p>Improved recommendations by /u/aureolux and /u/super_aardvark<br>
-			   Tested with Google Chrome 40, Firefox 36 and Safari (iOS 8).</p>
-			<p>
-				FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.
-			</p>
-		</footer>
-	</div>
-</body>
+          <div class="col-md-3 col-sm-3">
+            <h2 class="i18n" data-i18n="payout">払い出し</h2>
+            <table
+              id="payout"
+              class="table table-condensed form-group form-group-sm"
+            >
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>MGP</th>
+                  <th>#</th>
+                  <th>MGP</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </main>
+      <footer class="row">
+        <p>
+          Improved recommendations by /u/aureolux and /u/super_aardvark<br />
+          Tested with Google Chrome 40, Firefox 36 and Safari (iOS 8).
+        </p>
+        <p>
+          FINAL FANTASY is a registered trademark of Square Enix Holdings Co.,
+          Ltd.
+        </p>
+      </footer>
+    </div>
+  </body>
 </html>
