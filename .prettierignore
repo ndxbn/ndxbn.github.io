@@ -25,12 +25,3 @@ _site/
 # Vagrant
 Vagrantfile
 .vagrant/
-
-# extension
-## PlantUML
-*.puml
-## audio
-*.mp3
-
-# template file
-*.*.mustache
