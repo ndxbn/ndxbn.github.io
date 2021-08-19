@@ -71,6 +71,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - CentOS（7 まで）
 - Ubuntu（18.04 から）
 - Google Cloud Platform
+- Amazon Web Service
 
 ### 使ってるマシンやハードウェア
 
@@ -78,6 +79,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - [ASUS ROG G701VIK](https://www.asus.com/jp/Laptops/ROG-G701VIK/specifications/)
 - [OKI C301dn](http://www.oki.com/jp/printing/products/color/discontinued/c301dn/index.html)
 - Sony Xperia Series
+- iPhone
 
 ## FF14
 
