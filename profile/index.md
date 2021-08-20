@@ -117,5 +117,5 @@ Wah だと、発音的には最後に無声摩擦音が残り、吐息みたい�
 
 使ってるもの
 
-- [Powerslide Next Brown 125](https://www.powerslide.com/Powerslide-Next-Brown-125)：3輪 125mm。屋外用。
-- K2 MIDTOWN：4輪 80mm。基本的に屋外用。
+- [Powerslide Next Brown 125](https://www.powerslide.com/Powerslide-Next-Brown-125)：3 輪 125mm。屋外用。
+- K2 MIDTOWN：4 輪 80mm。基本的に屋外用。
