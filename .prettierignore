@@ -24,6 +24,7 @@ Gemfile.lock
 lib/
 coverage/
 _site/
+assets/
 
 # Vagrant
 Vagrantfile
