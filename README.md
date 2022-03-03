@@ -1,6 +1,4 @@
-# ndxbn.tokyo
-
-https://www.ndxbn.tokyo
+# [ndxbn.tokyo](https://www.ndxbn.tokyo)
 
 I manage Issues in https://github.com/ndxbn/ndxbn/issues .
 
