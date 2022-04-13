@@ -49,7 +49,6 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 - [nana: 322522](https://nana-music.com/users/322522/)
 - [pixiv: ndxbn](https://pixiv.me/ndxbn)
 - [Instagram: sitri.ndxbn](https://www.instagram.com/sitri.ndxbn/)
-- [ATND: 120916](https://atnd.org/users/120916)
 - [connpass: ndxbn](https://connpass.com/user/ndxbn/)
 - [chocolatey: sitri](https://chocolatey.org/profiles/sitri) （ndxbn は別の人なので注意！）
 
@@ -85,7 +84,7 @@ ID に使っている ndxbn は、[メイプルストーリーで使っていた
 
 [ロドストのページはこちら](https://jp.finalfantasyxiv.com/lodestone/character/26361370/)。
 
-『下限の民』というフェローシップのマスターをやってます。
+『下限の民』というフェローシップのマスターをやってますが、開店休業中。
 
 Sitri Wah というのは、意味としては「半ミコッテ半シトリー」です。
 同様に、 Zepar-wah は「半[ゼパール](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%91%E3%83%AB)」、 Gremory-wah は「半[グレモリー](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%A2%E3%83%AA%E3%83%BC)」、 Fulmur-wah は「半[フール](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%95%E3%83%AB) [ムール](https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%AB%E3%83%A0%E3%83%AB)」 です。
@@ -117,5 +116,5 @@ Wah だと、発音的には最後に無声摩擦音が残り、吐息みたい�
 
 使ってるもの
 
-- [Powerslide Next Brown 125](https://www.powerslide.com/Powerslide-Next-Brown-125)：3 輪 125mm。屋外用。
-- K2 MIDTOWN：4 輪 80mm。基本的に屋外用。
+- [Powerslide Next Brown 125](https://www.powerslide.com/Powerslide-Next-Brown-125)：3 輪 125mm。
+- ~2 MIDTOWN：4 輪 80mm。
