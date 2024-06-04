@@ -8,11 +8,7 @@
     "$id": "#/items",
     "type": "object",
     "title": "The Items Schema",
-    "required": [
-      "q",
-      "a",
-      "d"
-    ],
+    "required": ["q", "a", "d"],
     "properties": {
       "q": {
         "$id": "#/items/properties/q",
@@ -20,9 +16,7 @@
         "title": "The Question Schema",
         "description": "",
         "default": "",
-        "examples": [
-          "タブ派？スペース？"
-        ],
+        "examples": ["タブ派？スペース？"],
         "pattern": "^(.*)$"
       },
       "a": {
@@ -30,9 +24,7 @@
         "type": "string",
         "title": "The Anser Schema",
         "default": "",
-        "examples": [
-          "Indent with tabs, Align with spaces."
-        ],
+        "examples": ["Indent with tabs, Align with spaces."],
         "pattern": "^(.*)$"
       },
       "d": {

@@ -88,7 +88,7 @@ function validateScratch() {
       table.push(row);
     }
     var v = parseInt(
-      $("#scratch select[name='" + i + "'] option:selected").val()
+      $("#scratch select[name='" + i + "'] option:selected").val(),
     );
     row.push(v);
 
@@ -141,7 +141,7 @@ function createScratch(table) {
           i +
           "' class='form-control'>" +
           options +
-          "</select></td>"
+          "</select></td>",
       );
     }
   }
@@ -169,7 +169,7 @@ function solveScratch() {
   var revealed = 0;
   for (var i = 0; i < size * size; i++) {
     var v = parseInt(
-      $("#scratch select[name='" + i + "'] option:selected").val()
+      $("#scratch select[name='" + i + "'] option:selected").val(),
     );
     if (v != 0) revealed++;
     table.push(v);
@@ -232,7 +232,7 @@ function createPayout(table) {
       "<tr>" +
         createPayoutCells(i) +
         createPayoutCells(i + Math.floor(payoutNum / 2) + 1) +
-        "</tr>"
+        "</tr>",
     );
   }
   if (payoutNum % 2 == 1) {

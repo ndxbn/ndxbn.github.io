@@ -421,7 +421,7 @@ var PerfectCactpot = {
         ids,
         unknowns,
         which_to_flip,
-        tot_win
+        tot_win,
       );
     } else {
       value = this.solve_any(state, payout, which_to_flip);
@@ -479,7 +479,7 @@ var PerfectCactpot = {
         ids,
         unknowns,
         options,
-        dummy_array
+        dummy_array,
       );
     } else {
       // Determine which tile to reveal next.
