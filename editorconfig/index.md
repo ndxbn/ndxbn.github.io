@@ -22,4 +22,4 @@ indent_size = 2
 
 # donwload template file
 
-`curl https://www.ndxbn.tokyo/editorconfig/editorconfig -O .editorconfig`
+`curl https://ndxbn.github.io/editorconfig/editorconfig -O .editorconfig`

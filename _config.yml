@@ -9,7 +9,7 @@ show_drafts: false
 #relative_permalinks: true
 permalink: /blog/:year-:month-:day/:slug:output_ext
 
-url: https://www.ndxbn.tokyo
+url: https://ndxbn.github.io
 
 # Plugins
 # https://help.github.com/articles/configuring-jekyll-plugins/
@@ -28,5 +28,5 @@ sass:
 
 # Plugins Config
 ## common
-title: ndxbn.tokyo
-description: ndxbn's personal web site
+title: my website
+description: ndxbn's web site
