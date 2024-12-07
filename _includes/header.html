@@ -11,7 +11,7 @@
     				const prefers = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
     				const html = document.querySelector("html");
     				html.dataset.colorScheme = prefers;
-    				document.querySelectorAll(`#color-scheme`).forEach( (element) => {
+    				document.querySelectorAll(`#color-scheme-switch`).forEach( (element) => {
     					element.querySelector(`svg.${prefers}`).style.display = "inline-block";
     					element.addEventListener("click", () => {
     						toggleColorScheme(html.dataset, element);
