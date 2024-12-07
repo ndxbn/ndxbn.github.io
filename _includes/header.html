@@ -1,30 +1,8 @@
 <header>
-  <h1>ndxbn.github.io</h1>
+  <h1><a href="/">ndxbn.github.io</a></h1>
   <nav>
 		<menu>
-			<li><a href="#" id="color-scheme-switch">
-        {% octicon moon height:16 class:dark %}
-        {% octicon sun height:16 class:light %}
-        <script>
-          document.addEventListener("DOMContentLoaded", (event) => {
-    				/// <reference lib="dom" />
-    				const prefers = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-    				const html = document.querySelector("html");
-    				html.dataset.colorScheme = prefers;
-    				document.querySelectorAll(`#color-scheme-switch`).forEach( (element) => {
-    					element.querySelector(`svg.${prefers}`).style.display = "inline-block";
-    					element.addEventListener("click", () => {
-    						toggleColorScheme(html.dataset, element);
-    					});
-    				});
-    				function toggleColorScheme(dataset, element) {
-    					dataset.colorScheme = (dataset.colorScheme ?? prefers) === "light" ? "dark" : "light";
-    					element.querySelector("svg.light").style.display = dataset.colorScheme === "light" ? "inline-block" : "none";
-    					element.querySelector("svg.dark").style.display = dataset.colorScheme === "dark" ? "inline-block" : "none";
-    				}
-    			});
-        </script>
-      </a></li>
+			<li><a href="https://github.com/ndxbn">{% octicon mark-github height:16 %}</a></li>
 		</menu>
 	</nav>
 </header>
