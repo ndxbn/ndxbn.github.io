@@ -14,6 +14,8 @@ url: https://ndxbn.github.io
 # Plugins
 # https://help.github.com/articles/configuring-jekyll-plugins/
 # https://pages.github.com/versions/
+# -> https://github.com/github/pages-gem/blob/master/lib/github-pages/plugins.rb
+# -> https://github.com/github/pages-gem/blob/master/lib/github-pages/dependencies.rb
 plugins:
   - jekyll-default-layout
   - jekyll-feed
