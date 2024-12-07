@@ -6,7 +6,7 @@
         {% octicon moon height:16 class:dark %}
         {% octicon sun height:16 class:light %}
         <script>
-    			{
+          document.addEventListener("DOMContentLoaded", (event) => {
     				/// <reference lib="dom" />
     				const prefers = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
     				const html = document.querySelector("html");
@@ -22,7 +22,7 @@
     					element.querySelector("svg.light").style.display = dataset.colorScheme === "light" ? "inline-block" : "none";
     					element.querySelector("svg.dark").style.display = dataset.colorScheme === "dark" ? "inline-block" : "none";
     				}
-    			}
+    			});
         </script>
       </a></li>
 		</menu>
