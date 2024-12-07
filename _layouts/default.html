@@ -12,8 +12,9 @@
     />
     <link rel="stylesheet" href="https://matcha.mizu.sh/matcha.css" />
   </head>
-  <body>
-    {{ content }}
+  <body class="layout-simple">
+    <header>{% include header.html %}</header>
+    <main>{{ content }}</main>
     <footer>{% include footer.html %}</footer>
   </body>
 </html>
