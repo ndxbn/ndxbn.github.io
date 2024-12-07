@@ -1,1 +1,30 @@
-<header></header>
+<header>
+  <h1>ndxbn.github.io</h1>
+  <nav>
+		<menu>
+			<li><a href="#" id="color-scheme-switch">
+        {% octicon moon height:16 class:dark %}
+        {% octicon sun height:16 class:light %}
+        <script>
+    			{
+    				/// <reference lib="dom" />
+    				const prefers = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    				const html = document.querySelector("html");
+    				html.dataset.colorScheme = prefers;
+    				document.querySelectorAll(`#color-scheme`).forEach( (element) => {
+    					element.querySelector(`svg.${prefers}`).style.display = "inline-block";
+    					element.addEventListener("click", () => {
+    						toggleColorScheme(html.dataset, element);
+    					});
+    				});
+    				function toggleColorScheme(dataset, element) {
+    					dataset.colorScheme = (dataset.colorScheme ?? prefers) === "light" ? "dark" : "light";
+    					element.querySelector("svg.light").style.display = dataset.colorScheme === "light" ? "inline-block" : "none";
+    					element.querySelector("svg.dark").style.display = dataset.colorScheme === "dark" ? "inline-block" : "none";
+    				}
+    			}
+        </script>
+      </a></li>
+		</menu>
+	</nav>
+</header>
