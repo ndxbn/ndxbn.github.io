@@ -7,6 +7,6 @@ source "https://rubygems.org"
 gem "github-pages", "~> 232"
 
 gem "activesupport", "~> 8.0"
-gem "nokogiri", "~> 1.16"
+gem "nokogiri", "~> 1.18"
 
 gem "jekyll-octicons", "~> 19.8"
