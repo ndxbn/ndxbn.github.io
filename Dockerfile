@@ -1,4 +1,4 @@
-FROM ruby:alpine
+FROM ruby:alpine@sha256:e284f39a2103a564dca9771a81bfecb455b04cd3be4149b133ed7e508ef1b65f
 
 WORKDIR /usr/src/app
 
