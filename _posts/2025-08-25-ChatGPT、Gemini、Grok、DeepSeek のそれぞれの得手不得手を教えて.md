@@ -1,3 +1,7 @@
+---
+title: ChatGPT、Gemini、Grok、DeepSeek のそれぞれの得手不得手を教えて
+---
+
 You asked:
 ----------
 

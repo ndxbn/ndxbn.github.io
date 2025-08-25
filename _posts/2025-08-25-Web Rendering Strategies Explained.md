@@ -1,3 +1,7 @@
+---
+title: Web Rendering Strategies Explained
+---
+
 You asked:
 ----------
 

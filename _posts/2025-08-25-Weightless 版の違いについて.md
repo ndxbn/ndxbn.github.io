@@ -1,3 +1,7 @@
+---
+title: Weightless 版の違いについて
+---
+
 You asked:
 ----------
 

@@ -1,3 +1,7 @@
+---
+title: JulesとGemini CLIの比較
+---
+
 You asked:
 ----------
 

@@ -1,3 +1,7 @@
+---
+title: Strangling Phase_ 用語の定義と広義化
+---
+
 You asked:
 ----------
 

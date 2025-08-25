@@ -1,3 +1,7 @@
+---
+title: Flyweight パターンと他パターン連携
+---
+
 You asked:
 ----------
 
