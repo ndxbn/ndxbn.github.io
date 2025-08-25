@@ -4,9 +4,9 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "github-pages", "~> 232"
+gem "github-pages"
 
-gem "activesupport", "~> 8.0"
-gem "nokogiri", "~> 1.16"
+gem "activesupport"
+gem "nokogiri"
 
-gem "jekyll-octicons", "~> 19.8"
+gem "jekyll-octicons"

@@ -26,10 +26,7 @@
 
 ### API
 
-JSON が帰ってくるもの。
-
-- [faq](./faq.json)
-- [faq.schema](./faq.schema.json)
+（今のところはなにもないです）
 
 ## 別リポジトリのやつ
 
