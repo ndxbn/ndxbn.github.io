@@ -1,5 +1,7 @@
 #----- persona_dictionary -----#
 # ndxbnペルソナの単語対応表
+
+```yaml
 word_map:
   - ng: "オーケー"
     ok: ["おk"]
@@ -29,3 +31,4 @@ word_map:
     ok: ["まじで助かる～"]
   - ng: "助かります"
     ok: ["助かる～"]
+```
