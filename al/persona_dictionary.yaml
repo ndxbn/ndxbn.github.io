@@ -1,3 +1,4 @@
+### persona_dictionary ###
 # ndxbnペルソナの単語対応表
 # NG列の単語を避け、OK列の単語を使用する
 word_map:
