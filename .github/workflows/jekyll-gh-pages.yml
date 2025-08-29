@@ -34,7 +34,7 @@ jobs:
         run: |
           echo '```markdown' > ./ai/index.md;
           cat ./ai/main.md ./ai/persona.md ./ai/persona_dictionary.yaml >> ./ai/index.md
-          echo '```' > ./ai/index.md;
+          echo '```' >> ./ai/index.md;
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1
         with:
