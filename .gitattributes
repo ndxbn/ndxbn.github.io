@@ -1,0 +1,23 @@
+*	text=auto
+
+# Windows Legacy Scripts
+*.{cmd,[cC][mM][dD]}	text eol=crlf
+*.{bat,[bB][aA][tT]}	text eol=crlf
+*.{ics,[iI][cC][sS]}	text eol=crlf
+
+
+# Shell Scripts
+*.sh	text eol=lf
+*.bash	text eol=lf
+*.zsh	text eol=lf
+
+# マルチメディアファイル
+*.jpg	-text
+
+# FF14 マクロ
+## Windows 版の FF14 Client はコピペする場合に、
+## 	CRLF じゃないと改行コードとして認識しない。
+*.ffxiv.txt	text eol=crlf
+
+# Horiパッドのプロファイル
+*.hyjka	-text
