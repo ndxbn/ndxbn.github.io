@@ -1,9 +1,6 @@
 ## @ndxbn 個人が AI チャットをするときに使用するプレプロンプトの置き場
 
-現状の暫定的な使い方・手順です。
-
-1. 自動生成される [prompt.txt](https://ndxbn.github.io/ai/prompt.txt) をコピペをする
-2. メディアソースの追加みたいなやつで、 `ndxbn/ndxbn.github.io` リポジトリ全体を読み込む対象として追加する
+使い方は [index.md をウェブ経由で](https://ndxbn.github.io/ai/) 参照してください。
 
 prompt.txt に含まれるファイルの内容
 
