@@ -9,30 +9,42 @@
 
 ```mermaid
 classDiagram
-    class WorkItem {
+    direction TD
+
+    class Process {
         <<abstract>>
         +Type
         +DoR
         +DoD
     }
-    class Epic { }
-    class UserStory { }
-    class Task { }
-    class Spike { }
-    class Learning { }
+    class Epic {
+        Type: "Epic"
+    }
+    class UserStory {
+        Type: "UserStory"
+    }
+    class Task {
+        Type: "Task"
+    }
+    class Spike {
+        Type: "Spike"
+    }
+    class Learning {
+        Type: "Learning"
+    }
 
-    WorkItem <|-- Epic
-    WorkItem <|-- UserStory
-    WorkItem <|-- Task
-    WorkItem <|-- Spike
-    WorkItem <|-- Learning
+    Process <|-- Epic
+    Process <|-- UserStory
+    Process <|-- Task
+    Process <|-- Spike
+    Process <|-- Learning
 
     class Issue {
         +ID
         +Title
         +State (Column)
     }
-    Issue ..> WorkItem : "is an instance of"
+    Issue ..> Process : "is an instance of"
 ```
 
 ### Issue の状態遷移図
