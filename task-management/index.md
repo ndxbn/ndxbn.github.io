@@ -2,7 +2,7 @@
 
 前提知識
 
-- アジャイル開発（[What is Agile?](https://www.atlassian.com/agile)）
+- アジャイル開発（[Atlassian の Agile コーチ| What is Agile?](https://www.atlassian.com/agile)）
 - ISO 9000 シリーズ
 - PMBOK
 - 『超上流から攻める IT 化の原理原則 17か条』（IPA）
