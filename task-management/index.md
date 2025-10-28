@@ -11,17 +11,25 @@
 classDiagram
     direction TD
 
-    class Process {
+    class WorkItem {
         <<abstract>>
         +Type
-        +DoR
-        +DoD
+        +DoR /* Ready の定義、開始条件 */
+        +DoD /* Doing の定義、完了条件 */
     }
     class Epic {
         Type: "Epic"
     }
     class UserStory {
         Type: "UserStory"
+    }
+    WorkItem <|-- Epic
+    WorkItem <|-- UserStory
+
+    class Activity {
+        <<abstract>>
+        +Type
+        +DoD /* Doing の定義、完了条件 */
     }
     class Task {
         Type: "Task"
@@ -32,20 +40,20 @@ classDiagram
     class Learning {
         Type: "Learning"
     }
-
-    Process <|-- Epic
-    Process <|-- UserStory
-    Process <|-- Task
-    Process <|-- Spike
-    Process <|-- Learning
+    Activity <|-- Task
+    Activity <|-- Spike
+    Activity <|-- Learning
 
     class Issue {
-        +ID
-        +Title
-        +State (Column)
+        <<instance>>
     }
-    Issue ..> Process : "is an instance of"
+    Issue ..> WorkItem : "is an instance of"
+    Issue ..> Activity : "is an instance of"
 ```
+
+- いわゆる「タスク」は、粒度の大きい順に Epic、UserStory、Task になる。
+- Epic や UserStory にて DoR が明確になっていない場合に、それを明確にするためのタスクが Spike。
+- 「Learning（勉強）」は、時間制限を設けないない、つまり工数やサイズの見積もり不要。
 
 ### Issue の状態遷移図
 
@@ -53,10 +61,9 @@ classDiagram
 stateDiagram-v2
     [*] --> Backlog
     Backlog --> Ready : DoR Gate (Pass)
-    Ready --> Doing : WIP < 1 (Start)
+    Ready --> Doing : WIP Limit Gate (Pass)
     Doing --> Done : DoD Gate (Pass)
     
-    %% 差し戻しや優先度変更
     Doing --> Ready : Paused / Blocked
     Ready --> Backlog : Reprioritized
 ```
