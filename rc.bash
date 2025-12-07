@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-set -eu
 GNU_MIRROR_BASE="https://ftp.jaist.ac.jp/pub/GNU"
 
+# list gnu packages
 lsgnu() {
 	# Fetch HTML, extract directory links, remove tags,
 	#   filter out non-package links
@@ -16,7 +16,7 @@ lsgnu() {
 }
 
 # download latest gnu package
-gnupkg() {
+getgnu() {
 	local pkg_name="$1"
 
 	if [ -z "$pkg_name" ]; then
@@ -45,3 +45,12 @@ gnupkg() {
 	fi
 }
 
+# configure short hand
+confi() {
+	# Ensure PREFIX is set globally
+	if [ -z "${PREFIX}" ]; then
+		return 20
+	fi
+	local dir_name=$(basename "${PWD}")
+	./configure --prefix="${PREFIX}/${dir_name}" "$@"
+}
