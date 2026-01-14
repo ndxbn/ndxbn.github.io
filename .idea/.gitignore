@@ -8,4 +8,13 @@
 /dataSources.local.xml
 
 # 各個人の設定
-markdown.xml
+/markdown.xml
+/aws.xml
+/biome.xml
+/copilot.data.migration.agent.xml
+/copilot.data.migration.ask.xml
+/copilot.data.migration.ask2agent.xml
+/copilot.data.migration.edit.xml
+/go.imports.xml
+/JunieProjectTechnologies.xml
+/rGraphicsSettings.xml
