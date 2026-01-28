@@ -1,3 +1,185 @@
+https://zenn.dev/ymat19/articles/9107170744368f | tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する
+https://zenn.dev/wakinoza/articles/41d2505a0cb482 | Dockerfileのベストプラクティスについて
+https://zenn.dev/cahalinc/articles/ec8ee464d526c8 | 【次世代LLM】Engram解説：記憶と推論を分離し、「思考の深さ」を最大化する新アーキテクチャ
+https://qiita.com/ho-rai/items/cb76efb490898c778a45 | Antigravityのスキルで、実装・レビュー・修正まで一貫してできるようになった話 #AI駆動開発 - Qiita
+https://qiita.com/fujisho1216/items/90b34ef9abd910deb6ac | 役割が混在してきたので「CLAUDE.md / サブエージェント / スラッシュコマンド / エージェントスキル」を改めてまとめてみた #備忘録 - Qiita
+https://zenn.dev/sijiaoh/articles/9c7edf0ba29def | なぜ私はフロントエンド開発を避けるようになったのか
+https://qiita.com/bd8z/items/85b419b26b2886f5e2d6 | ローカルLLMサーバーの実用的な使い道の検討 #AWS - Qiita
+https://zenn.dev/chot/articles/b07162a685ca99 | 信頼できないソフトウェアと、どう付き合うか
+https://zenn.dev/tenormusica/articles/gpt52-claude-audience-awareness-2026 | GPT-5.2 vs Claude Opus 4.5、なぜ「伝わる」感覚が違うのか【設計思想から比較】
+https://zenn.dev/nekoninaritai/articles/941e55aed77609 | Markdown Paperという選択肢
+https://zenn.dev/collabostyle/articles/0db6a34e549fd6 | Cloudflare + Honoで作る最速リモートMCPサーバー
+https://note.com/o_ob/n/nf596c20a7bc5 | [VibeCoding] #14 Linus Torvaldsが書いたコードがおもしろかったので気がついたらBad-Appleをhtmlで書いていた話｜白井暁彦 aka しらいはかせ
+https://qiita.com/mintak21/items/7cf974ec7e9cc0f3e026 | とりあえずApproveはもうやめよう #GitHub - Qiita
+https://zenn.dev/miki_mini/articles/c3cb49f45dcc8e | 【個人開発】未経験が、Google推奨のベストプラクティスで「最強のCI/CD」を構築してみた🏰
+https://zenn.dev/hiro345/articles/20260113_development | 2025年に調べたり構築した開発環境について
+https://www.publickey1.jp/blog/26/jquery_4010ie10xss.html | jQuery 4.0正式版が公開。10年振りのメジャーバージョンアップ。IE10以前がサポート外、XSS防止など － Publickey
+https://qiita.com/ryosukehayashi/items/ad6e67d7d2b261a3b39f | Google AI Proで使い倒すAntigravity開発ノウハウ：モデルとモードの最適解 #Claude - Qiita
+https://gigazine.net/news/20260117-dockhand/ | 個人利用なら完全無料かつセルフホストも可能なDockerコンテナ管理ツール「Dockhand」 - GIGAZINE
+https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2078823.html | 無料で自動化の快適さを体感！ Google Antigravityの新機能「Skills」でマイAIエージェントを作ってみよう - 柳谷智宣のAI ウォッチ！ - 窓の杜
+https://zenn.dev/sijiaoh/articles/377abc8cc28f92 | スマホでコードを書くという選択肢
+https://qiita.com/tomoki-miso/items/0c2e662515ec1b6e811b | Git Worktree コマンドを気合と根性で覚えないために zshでらくらくコマンド化！ #CLI - Qiita
+https://zenn.dev/uhyo/articles/funstack-static-first-release | サーバーの無いReactフレームワークFUNSTACK Static
+https://zenn.dev/nuits_jp/articles/2026-01-19-risks-of-skills-marketplace | あなたの拾ってきた野良（マーケット）Skills、セキュリティトラブルを発生させていませんか？
+https://qiita.com/tatsuoNakano/items/5557800c41eb43b43f2f | 個人開発者として実際にアプリを運営していく中で感じた個人開発の現実を言語化したいと思います。 #iOS - Qiita
+https://kaminashi-developer.hatenablog.jp/entry/2026/01/19/isms-docs-to-github | ISMSの文書管理をGitHubに移行したお話 - カミナシ エンジニアブログ
+https://syu-m-5151.hatenablog.com/entry/2026/01/18/123151 | プログラミングが好きな人こそ今の時代、プログラマーになる方がいいと思う。- 「プログラミングが好きな人は、もうIT業界に来るな。」を読んで - じゃあ、おうちで学べる
+https://note.com/gadgeter_117/n/nf1239bdd82b0 | 【2026年最新】意志の力に頼らない！勉強が勝手に続く「習慣化ガジェット」5選｜【フォロバ100】ガジェット愛好家ゆいぞう
+https://zenn.dev/uliboooo/articles/b9f7a940cf6f10 | 開発環境現状確認 2026
+https://zenn.dev/shunk031/articles/my-dev-env-2026 | 開発環境現状確認（2026年）
+https://qiita.com/rana_kualu/items/d16ad3a0b271924013ec | 【Crank.js】リアクティブという欠陥を完全解決したJavaScriptフレームワーク、Crank.jsの思想と信条 #React - Qiita
+https://zenn.dev/gizmo/articles/1a0c29d3f8a6ea | Node.jsの非同期処理はSQSじゃなくてBullMQもアリ
+https://gigazine.net/news/20260119-jimmy-wales-interview/ | Wikipediaのジミー・ウェールズがインタビューを1分足らずで退席、「創業者か共同創業者か」の質問に不満を表明 - GIGAZINE
+https://zenn.dev/storehero/articles/e971b1b8925dc5 | Agentic System をプロトタイプ止まりにしないために ~ 主要ベンダーの Evals 戦略を読み解く
+https://gigazine.net/news/20260119-apple-icons-reverse-portfolio-good-design/ | 「Appleのアイコンを時系列で逆順に並べるとアイコンデザインが本当に上手な人のポートフォリオのように見える」という投稿が大反響を呼ぶ - GIGAZINE
+https://gigazine.net/news/20260119-web-inside-internet-archives/ | インターネットアーカイブはどんな設備でどのように運営されているのか？ - GIGAZINE
+https://codezine.jp/article/detail/22878?p=3 | GitLab Vice Presidentが語る「2026年、ソフトウェア開発に起きる3つの変化」 (3/3)|CodeZine（コードジン）
+https://speakerdeck.com/torumakabe/github-copilot-cli-xian-zhuang-que-ren-hui-yi | GitHub Copilot CLI 現状確認会議 - Speaker Deck
+https://dev.classmethod.jp/articles/image-for-light-meeting-with-gemini/ | ちょっとした説明に手早く Gemini で作成した図解を添える | DevelopersIO
+https://qiita.com/engineerslowlife/items/f3028a229d0c42877cf4 | 404 Not Found - Qiita - Qiita
+https://www.lifehacker.jp/article/2601i-tracked-every-minute-of-my-day-with-this-open-source-tool/ | 「今日、何してたっけ？」がなくなった。1日の時間を1分単位で記録してみたら | ライフハッカー・ジャパン
+https://studyhacker.net/7-words | 信頼される人は絶対に使わない「7つのNGワード」。職場での言い換え例も紹介 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://zenn.dev/kacky/articles/30a4aa9c268496 | 動かないデバイスもAntigravityがなんとかしてくれた
+https://zenn.dev/storehero/articles/8922e8cb7f1282 | Claude Agent SDK の輪郭 ― 何であり、何でないか
+https://zenn.dev/axelspace/articles/6aadb2755b7677 | RAGに疲れた人に捧げるClaude SkillsをAPI経由で使って簡単にRAGっぽいものを作る方法
+https://k0kubun.hatenablog.com/entry/development-environment-2026 | 開発環境現状確認 2026 - k0kubun's blog
+https://toyokeizai.net/articles/-/928001 | ソフトバンクの次世代AIインフラを自動運転やロボットでどう使う？ 矢継ぎ早に用途開発をリードしてきたエンジニアの思考 | 現場に直撃！会社を動かすキーパーソン | 東洋経済オンライン
+https://note.com/jetstream/n/n8c79ee485fca | Android版「Gemini」アプリで「NotebookLM」連携が開始。ノートブックを活用した効率的なリサーチが可能に｜Jetstream - ガジェット情報セレクトメディア
+https://codezine.jp/article/detail/22878?p=3 | GitLab Vice Presidentが語る「2026年、ソフトウェア開発に起きる3つの変化」 (3/3)|CodeZine（コードジン）
+https://zenn.dev/pranc1ngpegasus/articles/09481e89b56510 | 開発環境現状確認 202601
+https://zenn.dev/owayo/articles/63d325934ba0de | Claude CodeとCodexの連携をMCPからSkillに変えたら体験が劇的に改善した
+https://zenn.dev/m_noto/articles/92168c3fa006ed | 軽量で型安全なAPIを実現する技術比較（tRPC / Hono / Elysia）
+https://qiita.com/echolimitless/items/50daf8e3e38c7749401c | 【C#/.NET】精神論で品質を守らない。チーム開発を「構造化」するための9つの具体的アクション #VisualStudio - Qiita
+https://qiita.com/c60evaporator/items/c8907eddfe84881cdc3c | 統計モデリング大全　目次 #Python - Qiita
+https://chatgpt-lab.com/n/nc90248e77502 | 【徹底解説】Anthropic新機能「Cowork」とは？ 非エンジニアでもClaude Codeの力を使える時代へ｜AGIラボ
+https://studyhacker.net/brain_cell_study | 脳細胞には「リズム」があった——最新研究が明かす、効果的学び「3つの原則」 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://zenn.dev/urakawa_jinsei/articles/13f618d01c4094 | 3年目エンジニアが今まで読んできた本を振り返る
+https://internet.watch.impress.co.jp/docs/news/2078555.html | 埼玉県警が小テスト風の「サイバーテスト」を公開、セキュリティ知識の理解度を測る - INTERNET Watch
+https://note.com/munakata_souri/n/n052a421eab45 | Antigravityの「スキル」って何？｜むなかた AI×Web3エンジニア
+https://qiita.com/yugoes1021/items/e8c76a30f6529c7af739 | SaaS (クラウドサービス) の導入って、どうなったら成功なんだろう？ #ノーコード - Qiita
+https://type.jp/et/feature/30206/ | 「休日もコードを書け」は正義か？ Ruby父 まつもとゆきひろが肯定する“仕事と割り切る”エンジニアの在り方 - エンジニアtype | 転職type
+https://zenn.dev/boykush/articles/11cfc3e1abc563 | dotfiles管理、miseに全部任せてみた
+https://zenn.dev/nomuraya/articles/github-actions-schedule-timing | GitHub Actionsのschedule実行、15分間隔で設定しても実際は26分だった
+https://zenn.dev/miyaco_log/articles/ebec1c1f64c046 | 【脱・初心者】なぜAWSのプロは「IAMユーザー」を使わないのか？ 9割が知らない「AssumeRole」の正体
+https://qiita.com/Common_/items/fa2f4b14cb667575c938 | VSCode における Markdown カスタマイズ備忘録 #Markdown - Qiita
+https://qiita.com/flano_yuki/items/e038be1a66448aaf594f | https://2685434919 と https://160.16.124.39 はSameOriginか #Web - Qiita
+https://qiita.com/Xudev/items/97b1513935def5e1c6d4 | Postgresql だけで SaaS を作れるのかを検証してみた話 #初心者 - Qiita
+https://zenn.dev/fusic/articles/test-driven-developers | テストで開発者を駆動する
+https://zenn.dev/studypocket/articles/claude-code-complete-guide | [翻訳] Anthropic ハッカソン優勝者による Claude Code 完全ガイド【基礎編】
+https://dev.classmethod.jp/articles/backlog-git-aws-cloudformation-ci-cd/ | Backlog GitでAWS CloudFormationのCI/CDパイプラインを構築する | DevelopersIO
+https://logmi.jp/original/serialization/333025 | 「ロジカルだけど素直じゃない部下」の対処法　頑固な社員を行動させる指導術 | ログミーBusiness
+https://studyhacker.net/if-then_practice | 習慣化効率、なんと ”2倍” ——「if-thenプランニング ノート」の驚くべき効果 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://note.com/fumi_gadget/n/n87085e390221 | デスクを整えるだけで仕事が変わる。ミニマル派のデスクガジェット5選【2026年版】｜ふみ@ガジェットOL
+https://logmi.jp/original/serialization/333025 | 「ロジカルだけど素直じゃない部下」の対処法　頑固な社員を行動させる指導術 | ログミーBusiness
+https://note.com/gadget_news/n/n7aa7b85129a8 | 2026年のデスク周りはこれで決まり！快適すぎて椅子から動けなくなる「悪魔的ガジェット」9選｜Gadget News編集部 / ガジェット紹介
+https://hochi.news/articles/pub_mic_227809.html | プロのやり方なら1日10分、1週間でみるみる片付く！今日から始める「1weekお片付け」 - michill (ミチル) - スポーツ報知
+https://gigazine.net/news/20260119-iconify-open-source-icons/ | 200超のアイコンセットから27万5000点以上のアイコンを集めたオープンソースアイコンライブラリ「Iconify」 - GIGAZINE
+https://zenn.dev/microsoft/articles/2026-01-my-aidd-flow | 2026年1月版 俺的AI駆動開発フロー&Tips
+https://zenn.dev/akring/articles/ef2d8d1e95ff86 | Spec DrivenではなくImplementation Drivenを選ぶ理由
+https://forest.watch.impress.co.jp/docs/news/2079448.html | 「PowerToys 0.97」が公開 ～コマンド パレットが大幅強化、新しいマウスツールも - 窓の杜
+https://wired.jp/article/how-distillation-makes-ai-models-smaller-and-cheaper/ | 「知識蒸留」がAIモデルをさらに小さく安価にする | WIRED.jp
+https://qiita.com/mistylady/items/bfa00a849f08d7dc7b47 | Mermaidでアーキテクチャ図を作成する #ドキュメント - Qiita
+https://www.koukouseishinbun.jp/articles/-/13812 | 「朝5時半起き」で勉強する生活を4年間続けてみた「毎日机に向かう習慣が定着」 - 高校生新聞：10代を応援するニュース＆コンテンツメディア
+https://www.docswell.com/s/mozumasu/5DWPG4-dotfiles-dragon | 好きなdotfiles発表ドラゴン | ドクセル
+https://zenn.dev/masato13/articles/7245e5d9aea0fd | コンテキスト消費を抑える！Agent Skillsで実現するMarkdownファイルの段階的参照
+https://qiita.com/mellowlaunch/items/dd34831dee960def16eb | スペック駆動開発 ソフトウェア開発の歴史をざっくり振り返る 標準化が生んだ「考えなくていい」という罠 #スペック駆動開発 - Qiita
+https://zenn.dev/kazumich/articles/d3c1fd8ef2b93c | HTML ファーストで始める View Transitions API 入門
+https://zenn.dev/knowledgework/articles/3b44d6fc1dba62 | QAの境界が曖昧になってきた今、パネルディスカッションで話したいこと
+https://note.com/catesan/n/ndf34af9eb682 | 【2026】誰でも簡単にPDCAができる！NOLTYの能率手帳を徹底レビュー！｜けいとさん / Catesan
+https://zenn.dev/ttks/articles/f551d5d3aa4b50 | コードレビューの指摘は返信よりもCLAUDE.md/skillsに書け。同じ過ちを繰り返すな。
+https://qiita.com/automation2025/items/f138062afee32d5b04e6 | やさしく学ぶ Zig 入門ガイド #ZIG - Qiita
+https://newspicks.com/news/15852372/body/ | 【必須知識】2026年に確実に来る「4つ」のテックトレンド
+https://qiita.com/mto2yma2/items/efb87ffb6e4036576851 | 【受けてみた】AWS DevOps Pro の勘所を振り返る&受験談 #資格 - Qiita
+https://zenn.dev/ubie_dev/articles/anchor-positioning-popover | Anchor Positioningが全対応。HTML・CSSだけのポップオーバーが完全体に
+https://note.com/sakamototakuma/n/ndafadb38599a | Agent Skillsは「プロンプト」ではなく「知識資産」です（連載1/全8章）｜さかもとたくま
+https://zenn.dev/tkithrta/articles/b7afbf76e7bb31 | Agent SkillsがVercelに乗っ取られそうになっている件について
+https://gigazine.net/news/20260121-ai-deception-betrayal-game/ | AI同士で「裏切り必須のゲーム」をプレイさせてわかった最もうそをつくのがうまいAIとは？ - GIGAZINE
+https://www.goodspress.jp/features/713118/ | プロ仕様、作業効率化、アイデア製品etc. 使える最新家電12選【インフルエンサーが推す「神ガジェット」】　 | GoodsPress Web
+https://chatgpt-lab.com/n/n2ff6d8f764d0 | Claude Code×mdファイルで挫折しないAI時代のタスク管理術｜AGIラボ
+https://qiita.com/kazuya828/items/beb1b93e8600fa5818d3 | GitHub 31kスターは伊達じゃない。Claude Code最強の相棒『Superpowers』徹底レビュー #ClaudeCode - Qiita
+https://forest.watch.impress.co.jp/docs/news/2080138.html | Microsoft、「Windows App Development CLI」（winapp）を発表 - 窓の杜
+https://gihyo.jp/article/2026/01/skills-sh | Vercel、エージェントスキルのオープンディレクトリ「Skills.sh」を提供開始 | gihyo.jp
+https://wirelesswire.jp/2026/01/92269/ | 生成から工程へ――RLM(再帰的言語モデル)が非構造化データを武器に変える – WirelessWire & Schrödinger's
+https://zenn.dev/zhu/articles/11ad183281bee6 | GitHub 29,000+ Star獲得！Claude Codeに「ベテランエンジニア」の思考を注入するSuperpowersプラグイン
+https://zenn.dev/shunsuke_stack/articles/apex-learning-record | TypeScript/JSエンジニアがApexに入門して感じた「違い」と「勘所」
+https://zenn.dev/cbmrham/articles/202601-github-copilot-concepts | GitHub Copilotを使いこなすための概念整理
+https://zenn.dev/karamage/articles/db488ca6362eb2 | なぜ、MCPよりも「ファイルベースで扱うSkills」の方が便利なのか
+https://zenn.dev/uryyyyyyy/articles/f127af4277aa32 | 「人間がコードを書く時代は終わった」議論は2種類のコードを混同している
+https://qiita.com/hisaho/items/5bd0096ca33d5ea41acb | 【86万行・29,000コミット】AIが「本気で」コードを書いたらこうなった —— Cursorの大規模実験から学ぶ10の知見 #cursor - Qiita
+https://zenn.dev/tmasuyama1114/articles/claude_code_best_practice_202601 | Claude Code公式ベストプラクティス徹底解説｜Anthropicが重視する5つの設計思想
+https://zenn.dev/gaku1234/articles/frontend-performance-guide-2026 | 【2026年版】フロントエンドパフォーマンス完全ガイドを公開しました
+https://github.blog/jp/2026-01-23-build-an-agent-into-any-app-with-the-github-copilot-sdk/ | GitHub Copilot SDKの発表 - GitHubブログ
+https://gigazine.net/news/20260123-go-developer-survey-2025/ | Go言語を使う開発者のAI使用状況や使用エディターなどが丸ごと分かる調査レポート2025年版が公開される - GIGAZINE
+https://gigazine.net/news/20260123-qwen3-tts-family-opensource/ | 日本語を含む10言語に対応した音声生成モデル「Qwen3-TTS」ファミリーがオープンソース化 - GIGAZINE
+https://note.com/fumi_gadget/n/n44a7940704d0 | 2,000円以下で買ってよかった神ガジェット5選｜コスパ最強｜ふみ@ガジェットOL
+https://www.techno-edge.net/article/2026/01/23/4832.html | 5秒の声から良質ボイスクローンを生成できるCPU動作の軽量ローカルAI「Pocket TTS」、AIにゲームで遊ばせたら別ジャンルでも能力が向上した研究など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge
+https://cgworld.jp/flashnews/01-202601-UltraShape.html | オープンソースの3D生成AIモデル「UltraShape 1.0」リリース！　全体構造の整合性とディテールのジオメトリ的ディテールを両立
+https://www.lifehacker.jp/article/2601-notebooklm-is-great-but-it-shines-when-you-use-it-like-this/ | Googleの優秀AI「NotebookLM」の限界を突破する方法 | ライフハッカー・ジャパン
+https://zenn.dev/pepabo/articles/2549863d8efa6d | 開発環境現状確認 2026
+https://zenn.dev/gizmo/articles/d2962c4a0754c7 | いいから設計段階でレビュー依頼を出せ
+https://zenn.dev/kg_filled/articles/831b534536e4d7 | DockerfileとCompose、どっちに書く？— ファイルシステムから逆算する設計判断
+https://zenn.dev/gizmo/articles/d2962c4a0754c7 | いいから設計段階でレビュー依頼を出せ
+https://zenn.dev/neurostack_0001/articles/claude-skills-advanced-patterns | Claude Agent Skills 設計パターン集｜MCP連携・Subagent使い分け・Progressive Disclosure
+https://zenn.dev/sakagi/articles/3e0348dc4265dc | 【入門】いまさらRAGを自作して、検索の挙動とチューニングの勘所を「体感」する
+https://zenn.dev/koikoi_infra/articles/30ba6b4705a945 | AWS DOP 勉強メモ
+https://zenn.dev/gaku1234/articles/github-actions-build-time-5min | zenn.dev/gaku1234/articles/github-actions-build-time-5min
+https://nowokay.hatenablog.com/entry/2026/01/21/130124 | いかに「エンジニアといえばWeb系ソフトウェアエンジニア」な雰囲気ができたか - きしだのHatena
+https://qiita.com/koras7788/items/540e9c60095243a888d3 | Claude Codeを使いこなす完全ガイド - 生産性を劇的に向上させるテクニック #AI - Qiita
+https://future-architect.github.io/articles/20260122a/ | ソフトスキルガイドラインを公開しました | フューチャー技術ブログ
+https://zenn.dev/gaku1234/articles/git-conflict-resolution-3-patterns | Gitコンフリクト解決で挫折しないための3つのパターン
+https://zenn.dev/dotdtech_blog/articles/full-stack-typescript-blueprint | AIと協働するためのFull-Stack TypeScript Blueprint
+https://zenn.dev/fuuji/articles/3b355c4252a4fc | .dockerignoreを生成する「dibo」について紹介
+https://qiita.com/Rikuto-Iwashita/items/64d75a4d79f4a9a646c1 | GoのinterfaceをJavaの感覚で学んだらむしろややこしくなった #Java - Qiita
+https://zenn.dev/aprender/articles/f594269be5e838 | 月当たり$5でClaudeにコードレビューしてもらおう
+https://zenn.dev/nomuraya/articles/claude-code-skills-poc-advanced | Claude Code Skillsを実運用して分かった設計パターン
+https://gmo-aozora.hatenablog.com/entry/2026/01/20/120000 | GCP資格「Professional Cloud Network Engineer」を5日で受かってみた話【合格体験談】 - GMOあおぞらネット銀行テック&カルチャーブログ
+https://azukiazusa.dev/blog/new-design-tool-pencil/ | 新しいデザインツール Pencil を試してみた
+https://zenn.dev/ncdc/articles/0a1a4321f042ef | いつの間にか GitHub issue で依存関係を設定できるようになってる！
+https://zenn.dev/akashi1226/articles/bb68c457bc3316 | Docker環境で「なんかローカルの変更が反映されない」→ mutagen .... を叩く。結局これ何？と思って調べた
+https://zenn.dev/toshiro3/articles/dagster-introduction | Dagster入門 - Docker Composeで始めるデータパイプライン
+https://qiita.com/kinopy513/items/78c976e29a000eaf7819 | Gitの次に来る？次世代VCS "Jujutsu" #AI駆動開発 - Qiita
+https://note.com/pharmake/n/n9a28871e5f02 | Notebook LMで自分好みのスライドを作成するコツ｜株式会社pharmake
+https://zenn.dev/naopusyu/articles/e8878d576898c7 | コマンドを簡略化するためにTaskfileを試す！
+https://zenn.dev/karamage/articles/306f0c571e0af9 | エンジニアのAI疲れとの付き合い方
+https://zenn.dev/flying_birds/articles/8f20c22c0fdfdc | Obsidian × NotebookLM：自律的な知識ベースを構築するための究極のガイド
+https://note.com/nu_tubaka/n/ncbf810cbde10 | 絶賛ストレス発散中で買っちゃったガジェット5選。｜ぬ
+https://zenn.dev/tmasuyama1114/articles/cc_commands_merged_into_skills | 【Claude Code】カスタムスラッシュコマンドがスキルに統合されました
+https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient | 【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう
+https://zenn.dev/nuskey/articles/csharp-dont-use-tcpclient | 【C#】これからはTcpClient/UdpClientをやめてSocketを直接使おう
+https://zenn.dev/syoshida07/articles/d4166ba5c39f6e | GitHub Copilot アンチ層に良さをどう伝えるかの奮闘物語
+https://note.com/rehab_datasci/n/nfd1bc4b466b8 | 【開発ログ】NotebookLMのインフォグラフィック生成を安定化する「確定版手順」を作った（勉強会スライド用）｜rehab-datascience
+https://note.com/re_birth_ai/n/nd6231332cbe2 | NotebookLM音声要約の精度を上げる！ソース最適化の実践テクニック｜Re-BIRTH株式会社
+https://gigazine.net/news/20260124-bugs-apple-loves/ | 「Appleが放置しているバグ」を集めたウェブサイト - GIGAZINE
+https://www.gizmodo.jp/2026/01/some_windows_users_decide_to_change_linux.html | 今、密かに起きている｢Windows離れ｣。“思ったより快適な移住先”とは？ | ギズモード・ジャパン
+https://tcd-theme.com/2026/01/gpt-image-1-5.html | “ナノバナナ一強”の時代は終わり？「GPT-Image-1.5」を徹底レビュー | ワードプレステーマTCD
+https://nihonnomado.seesaa.net/article/519782239.html | 【必須】旅行が快適になる最新トラベルガジェットおすすめ2026: 日本ノマド
+https://note.com/acarcane/n/n63b551ef13a6 | Gobo(ゴボ)って何？知るだけでレンダリングが一気に化けるBlender必須テク｜アカルカネ｜CG ゲーム 映像クリエイター向け情報配信中📡
+https://akiba-pc.watch.impress.co.jp/docs/news/news/2080499.html | Stream Deckアプリ対応のDAW/配信ソフト向けUSBコントローラー「CC1」がヤマハから - AKIBA PC Hotline!
+
+https://nazology.kusuguru.co.jp/archives/190454 | 出産の数年後にADHD診断される母親が急増している - ナゾロジー
+https://gigazine.net/news/20260117-grok-still-allow-sexualised-images-cease-and-desist-order/ | イーロン・マスクのGrokでは禁止されたはずの性的画像が依然生成可能との報道、カリフォルニア州司法長官はGrokのxAIに業務停止命令 - GIGAZINE
+https://gigazine.net/news/20260115-state-of-openssl-problems/ | 「OpenSSLの問題が深刻化している」と暗号ライブラリの開発者らが指摘 - GIGAZINE
+https://www.publickey1.jp/blog/26/aitypescriptgithub.html | AIはなぜTypeScriptのような型付き言語の普及を促進するのか、GitHubが理由を説明 － Publickey
+https://gihyo.jp/article/2026/01/future-trends-in-devsecops | 今後のDevSecOpsの動向：「一人チーム」による管理領域の拡大 | gihyo.jp
+https://www.lifehacker.jp/article/2601best-rewards-for-fitness-goals/ | 脳をハックして習慣化。あえて「価値のない報酬」を自分に与えるのが正解でした | ライフハッカー・ジャパン
+https://smhn.info/202601-threads-misskey-mastodon-bluesky-mixi2 | X代替。今すぐ始めるべき短文投稿SNSはこれだ。【Threads / Misskey / Mastodon / Bluesky / mixi2】 - すまほん!!
+https://smhn.info/202601-balmuda-phone-china-2 | 失敗作「BALMUDA Phone」が中国で再評価！女オタ集団「電子ゴミ妹」が奪い合う怪奇現象で価格も高騰 - すまほん!!
+https://gigazine.net/news/20260118-ghostty-memory-leak-fix/ | とあるアプリで尋常ではないメモリリークが報告され修正されるまで - GIGAZINE
+https://logmi.jp/main/management/332955 | 職場の人間関係がうまくいかない理由　同僚のことを知らないことで生まれる不信感
+https://xenospectrum.com/cloudflare-acquires-astro-web-framework-future/ | CloudflareがAstroを買収：Web開発の未来を決定づける「爆速」の融合と、オープンソースエコシステムへの衝撃 | XenoSpectrum
+https://www.lifehacker.jp/article/260110-gmail-hacks-to-bring-your-inbox-under-control/ | Gmailの未読メールにさよなら！ 20年使い倒した達人が教える便利ハック10選 | ライフハッカー・ジャパン
+https://gihyo.jp/article/2026/01/agent-skills-react-best-practices | Vercel、Reactのベストプラクティスをエージェントスキルとして公開 | gihyo.jp
+https://studyhacker.net/kaizen-calendar | 「年始でリセット」はいまからでも遅くない！　毎日1分で成長軌道に乗る「改善カレンダー」活用法 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+
+https://xenospectrum.com/linus-torvalds-vibe-coding-audio-noise-google-antigravity/ | Linus Torvaldsもついに「バイブコーディング」を始めた：Linuxの父がGoogle Antigravityで描くAIとプログラミングの新たな境界線 | XenoSpectrum
+https://studyhacker.net/3-line-notes | 本を読んでも行動が変わらない人へ。3行ノートで、読書を成果に変える！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://gigazine.net/news/20260115-webtiles/ | 昔のインターネットを想起させる個人ウェブサイトを250×250の小型タイルにしてまとめた「WebTiles」 - GIGAZINE
+https://www.gizmodo.jp/2026/01/jwipc_w144.html | ユニファイドメモリ96GBは強すぎる。ローカルAI時代の小さな怪物｢JWIPC W144｣ | ギズモード・ジャパン
+https://togetter.com/li/2651620 | メルちゃんの『でんしゃに のったよ』というポストを見た電車の内装オタク「この電車がどこの会社のものかわからず非常に焦っています」 - Togetter
+https://www.lifehacker.jp/article/2601free-up-15gb-gmail-without-deleting-emails/ | 15GBの限界がきたGmail。メールを1通も消さずに延命させる裏ワザがあった！ | ライフハッカー・ジャパン
+https://nazology.kusuguru.co.jp/archives/190365 | 22歳で「認知症」になった男性、2年後に亡くなる - ナゾロジー
+https://xenospectrum.com/ammobia-green-ammonia-haber-bosch-2-0-revolution/ | 「ハーバー・ボッシュ法」が100年ぶりに覆される：Ammobiaが描くアンモニア製造の革命と脱炭素社会への道筋 | XenoSpectrum
+
 https://www.roomie.jp/2026/01/1683856/ | コクヨ×ロルバーンのコラボステーショナリーが新登場！ 文具好きライターが全種類を紹介します | ROOMIE（ルーミー）
 https://studyhacker.net/youichi-itou-interview301 | ひとりで考える時代は終わった。正解がない時代に「壁打ち」が抜群に効くわけ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
 https://www.roomie.jp/2026/01/1682937/ | この財布、一度使ったらあと戻りできない便利さだよ。最薄＆最軽量クラスの長財布 | ROOMIE（ルーミー）
