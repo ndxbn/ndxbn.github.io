@@ -1,3 +1,179 @@
+https://forest.watch.impress.co.jp/docs/news/2088188.html | GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開 - 窓の杜
+https://www.gizmodo.jp/2026/02/smart_gears-uvi.html | 備えあればうれしいな。リュックに付けるだけで生活がよりスマートになるギア | ギズモード・ジャパン
+https://www.gizmodo.jp/2026/02/stream-ring-ai-recorder-yos.html | もうメモアプリはいらない。話しかけてくる指輪型AIレコーダー｢Stream Ring｣ | ギズモード・ジャパン
+https://gigazine.net/news/20260223-glances/ | オープンソースのクロスプラットフォーム監視ツール「Glances」、CPU・メモリ・ディスク・ネットワーク使用量などをターミナルだけでなくウェブサーバーモードで監視可能 - GIGAZINE
+https://pc.watch.impress.co.jp/docs/news/yajiuma/2088113.html | 【やじうまPC Watch】ChatGPTに恋してしまうのも無理はない。超リアルな自撮りをさせる呪文が流行中 - PC Watch
+https://zenn.dev/t_o_d/articles/2a32e0ca0ee048 | 旬のGitHubリポジトリをnushellで収集および記録する
+
+https://smhn.info/202602-switchbot-pad-pro | 自宅にまさかの「静脈認証」設置!? ブッ飛んでる「SwitchBot 顔認証パッド Pro」レビュー - すまほん!!
+https://www.lifehacker.jp/article/2602-typeless-ai-voice-typing-android/?page=2 | Androidの音声入力は「Typeless」一択。使ってみたらタイピングが馬鹿らしくなった | ライフハッカー・ジャパン
+https://www.roomie.jp/2026/02/1717105/ | 買ってよかった「手帳活」が捗るアイテム、3選 | ROOMIE（ルーミー）
+https://nazology.kusuguru.co.jp/archives/191960 | 先延ばし癖のある人は、実は『隠れた才能』を持っている可能性 - ナゾロジー
+https://xenospectrum.com/ddr5-memory-price-correction-europe-supply-shortage/ | DDR5メモリ価格が日本や欧州で一部下落：「供給不足の中の値崩れ」が意味するものとは | XenoSpectrum
+https://gihyo.jp/article/2026/02/text-based-wireframe-tools | プレーンテキストで出力するワイヤーフレームツール「Mockdown」「Wiretext」が相次いで公開 ——テキスト形式のワイヤーフレームをエージェントに渡し、UIコードの生成を目指す | gihyo.jp
+https://github.com/ndxbn/google-ime-files/blob/main/roman_table.tsv | google-ime-files/roman_table.tsv at main · ndxbn/google-ime-files
+https://kts.sakaiweb.com/virtualkeycodes.html | KT Software - 仮想キーコード一覧
+https://bsakatu.net/doc/usb-hid-to-scancode/ | USB HID Usage ID の Scancode 変換と対応するキー | capyBaral
+https://qiita.com/YushiYamamoto/items/be45d3115ebe74a3e312 | 【Gemini 3 Pro】Antigravityを「ただのエディタ」として使うのはやめろ。n8nと連携して「寝ている間にバグを勝手に直す」自律修復パイプライン #devops - Qiita
+https://zenn.dev/microsoft/articles/github-copilot-cli-pptx | 図形フル活用の PowerPoint を GitHub Copilot に読ませてみた
+https://zenn.dev/lluminai_tech/articles/bb08652fc4e932 | RAGと長文コンテキストLLMはどっちを選ぶべき？ — SELF-ROUTE論文から見る使い分け指針
+https://zenn.dev/tomodo_ysys/articles/llm-context-engineering-book-review | [書評] 『LLMの原理、RAG・エージェント開発から読み解く コンテキストエンジニアリング』
+https://zenn.dev/kazuki_okura/articles/bun-hono-drizzle-sqlite-ai-agent-stack | 個人開発のAIエージェントに『Bun + Hono + Drizzle + SQLite』が最強な理由
+https://www.gizmodo.jp/2026/02/google_gemini_3_1_pro.html | Googleから新AI｢Gemini 3.1 Pro｣。現状、最高性能か | ギズモード・ジャパン
+https://github.blog/jp/2026-02-16-automate-repository-tasks-with-github-agentic-workflows/ | GitHub Agentic Workflowsを発表 - リポジトリの自動化を実現 - GitHubブログ
+https://zenn.dev/ashunar0/articles/36c9fdb5bc3c27 | 認証ライブラリを使わずに認証してみた話
+https://zenn.dev/redzetm/articles/1f12da385a8ffc | 自作OS「UmuOS-0.1.6-dev」に Nessus（ネサス）で脆弱性診断
+https://www.publickey1.jp/blog/26/aws28azuregoogle_cloud20254synergy_research.html | クラウドインフラのシェア、AWSがトップを維持するも28％、AzureとGoogle Cloudが少しずつ差を詰めていく。2025年第4四半期、Synergy Researchの調査結果 － Publickey
+https://zenn.dev/gen_shun/articles/894409319a5eb0 | GitHub Copilot Agentとの壁打ちだけで、フロントエンドをリアーキテクチャしてくれた話
+https://news.mynavi.jp/article/20260219-4143304/ | 偽CAPTCHAでマルウェア感染、Windowsユーザー狙う「ClickFix」攻撃に注意 | マイナビニュース
+https://www.gizmodo.jp/2026/02/30w-cable-ittai-battery-review.html | 外出時の充電まわりが1台で完結。30W対応・ケーブル一体型バッテリー | ギズモード・ジャパン
+https://prtimes.jp/main/html/rd/p/000000588.000036528.html | LayerXが開発する「Ai Workforce」、三菱ＵＦＪ銀行に行内外データと連携したAIエージェントデータ基盤を提供開始。提案書自動生成により、年間20万時間の削減を目指す | 株式会社LayerXのプレスリリース
+https://www.businessinsider.jp/article/2602-magic-mic-iii-review/ | オンライン会議の「声問題」を解決。ワイヤレスヘッドセット「Belfida MAGIC MIC III」実機レビュー | Business Insider Japan
+https://zenn.dev/nomuraya/articles/browser-security-local-file-access | ブラウザのセキュリティ制約とローカルファイルアクセス - file://プロトコルの罠
+https://levtech.jp/media/article/column/detail_801/ | Remix v3をサンプルコードで体験する。React非依存で“明示的に”UI制御できるコア機能3つ | レバテックラボ（レバテックLAB）
+https://www.publickey1.jp/blog/26/amazon_ec2nested_virtualizationkvmhyper-v.html | Amazon EC2が仮想化のネスト（Nested Virtualization）に対応。KVMやHyper-Vを用いた仮想マシンを設定可能に － Publickey
+https://ascii.jp/elem/000/004/373/4373933/ | ASCII.jp：手頃に6480円で増設できる小型ディスプレーがアツい！設置の自由度が高い、自作ユーザーに嬉しいカスタマイズアイテム：PCワンズ
+https://forest.watch.impress.co.jp/docs/news/2086553.html | テキストエディター「Notepad++」v8.9.2が公開 ～“ダブルロック”の自動更新で安全に - 窓の杜
+https://www.publickey1.jp/blog/26/slackapislack_mcp_serveraislack.html | Slackが「リアルタイムサーチAPI」と「Slack MCP Server」を発表。生成AIがSlack上のやりとりを基にコンテキストを理解可能 － Publickey
+https://zenn.dev/koya6565/articles/20260215_duckdb-s3-log-explorer | DuckDB + S3をStreamlitアプリで簡単検索
+https://zenn.dev/moneyforward/articles/865c3af4da5cc4 | 機能・非機能の学びを一つに! Agent Skillsで月間レポート作成始めてみた
+https://future-architect.github.io/articles/20260220a/ | 非同期設計ガイドラインを公開しました | フューチャー技術ブログ
+https://www.techno-edge.net/article/2026/02/20/4876.html | Nano Banana Proに迫る実力、文字入り画像を高精度生成するAI「Qwen-Image-2.0」、GPT-5.2やGemini 3.0 Proとやり合える軽量AI「Step 3.5 Flash」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge
+https://dev.classmethod.jp/articles/aws-architecture-diagram-claude-code-drawio-mcp/ | AWS 構成図をプロンプトひとつで作れる！Claude Code + draw.io MCP サーバーを試してみた | DevelopersIO
+https://pc.watch.impress.co.jp/docs/topic/special/2084662.html | “完全版”へと進化した「REALFORCE GX1 Plus」。これがゲームも仕事も妥協しない人の最適解 - PC Watch[Sponsored]
+https://ascii.jp/elem/000/004/374/4374045/2/ | ASCII.jp：Suno級がローカルで？ 音楽生成AI「ACE-Step 1.5」を本気で検証 (2/6)
+https://www.gdm.or.jp/pressrelease/2026/0219/623723 | 指輪にLCDを搭載した実売1万円前後のスマートリングがエアリアから発売 - エルミタージュ秋葉原
+https://gigazine.net/news/20260222-rackula/ | 無料でドラッグ＆ドロップしてサーバーラックのレイアウトを設計・管理できる「Rackula」 、セルフホストも可能 - GIGAZINE
+https://blog.jetbrains.com/ja/blog/2026/02/19/acp-agent-client-protocol-jetbrains-ide/ | ACP（Agent Client Protocol）で変わる JetBrains IDE とコーディングエージェントの関係 | JetBrains のブログ
+https://www.roomie.jp/2026/02/1716168/ | 買ってよかった「スマホを見る時間を減らすアイテム」3選 | ROOMIE（ルーミー）
+https://gigazine.net/news/20260221-journiv/ | 無料で広告や追跡なしプライバシー最優先の日記アプリ「Journiv」、気分追跡・プロンプト・分析・高度な検索機能を備えオープンソースでセルフホスト可能 - GIGAZINE
+https://gigazine.net/news/20260222-recoverable-irrecoverable-decisions/ | 「回復可能な意思決定」と「回復不可能な意思決定」を分けると迷いは減る - GIGAZINE
+https://nowokay.hatenablog.com/entry/2026/02/21/175505 | ブラウザがGPUメモリを使いすぎるので、サブGPUのRTX3050を使わせる - きしだのHatena
+https://www.lifehacker.jp/article/2602-typeless-ai-voice-typing-android/ | Androidの音声入力は「Typeless」一択。使ってみたらタイピングが馬鹿らしくなった | ライフハッカー・ジャパン
+https://chatgpt-lab.com/n/nf8045004e82b | 【2026年版】Claude製品を完全解説！6製品×機能マップで整理してみた｜AGIラボ
+https://www.roomie.jp/2026/02/1713318/ | ニトリのプロジェクター時計が優秀。壁に時刻を映せて快眠が加速！ | ROOMIE（ルーミー）
+https://note.com/shigehiro/n/nc16fd8480c32 | 古いノートPCをChromebook化した #2｜シロヒゲ
+
+https://nyosegawa.github.io/posts/claude-code-mcp-plugin/ | Claude Code × MCP × Pluginでプロジェクト管理を自動化する - 逆瀬川ちゃんのブログ
+https://japan.zdnet.com/article/35243627/2/ | ローカル環境でバイブコーディングを実現する--クラウドツールの無料代替策 - (page 2) - ZDNET Japan
+https://www.gizmodo.jp/2026/02/bon-moment-box.html | ｢帰ってきたらこのボックスに放り込む｣を習慣化して散らからなくなった | ギズモード・ジャパン
+https://www.reddit.com/r/tea/comments/qvovff/has_anyone_tried_a_siphon_to_brew_their_tea_how/?tl=ja | 誰かサイフォンで紅茶を淹れたことある？どうだった？味の面で他の方法と比べてどう？ : r/tea
+https://meltycolors.com/collections/alwero | 【日本正規販売店】Alwero/ アルヴェロ – Melty Colors
+https://www.google.com/search?q=Alwero&client=ms-android-sonymobile-terr1-rso2&sourceid=chrome-mobile&ie=UTF-8#ip=1 | Alwero - Google 検索
+https://qiita.com/YushiYamamoto/items/c937af562c4d40c24e42 | n8nで記事自動生成パイプラインを作ったら、1週間で40本→0本になった話 #ポエム - Qiita
+
+https://gigazine.net/news/20260212-linus-torvalds-rejects-mmc-changes-linux-7/ | Linux 7.0のMMCに関する変更が「完全にゴミ」としてリーナス・トーバルズに却下される - GIGAZINE
+https://www.lifehacker.jp/article/2602use-thunderbird-for-email-android/ | さらばGmail。私がAndroid版「Thunderbird」に乗り換えて、もう二度と戻らないと決めた理由 | ライフハッカー・ジャパン
+https://studyhacker.net/stop-morning-scroll | 朝イチのSNSが「1日を台無し」にする——起床後30分スマホ断ちで集中力が戻る - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://magmix.jp/post/338320 | 「えっ、スタイル良すぎ」台湾美女たちによる圧倒的美ボディコスプレ　「再現度高い」「クオリティーえぐい」 | マグミクス
+https://gihyo.jp/admin/serial/01/ubuntu-recipe/0899?summary | 第899回　Distroboxを使えば、他のディストリビューションの最新パッケージをUbuntuでも気軽に試せる | gihyo.jp
+https://nazology.kusuguru.co.jp/archives/191585 | 瞑想の達人である「僧侶の脳波」を測った結果、驚きの実態が判明 - ナゾロジー
+https://smhn.info/202602-discord | Discord、全ユーザーを未成年に。確認後に成人扱いする仕様に変更へ - すまほん!!
+https://gigazine.net/news/20260210-discord-teen-by-default-settings-globally/ | Discordがアカウントのデフォルト設定を未成年者向けにすると発表、成年認定には顔のカメラ撮影や身分証明書スキャンによる年齢確認が必要に - GIGAZINE
+https://www.chiba-tv.com/plus/detail/2026021279773 | Discordが未成年者向けのデフォルト設定を全ユーザーに適用へ―設定変更には年齢確認が必要に | チバテレ＋プラス
+https://gigazine.net/news/20260210-discord-alternatives-ranking/ | Discordの代替アプリランキング - GIGAZINE
+https://smhn.info/202602-seaglass | 人差し指トラックボール搭載の無線分割キーボード「SeaGlass」レビュー。マウスいらずの操作感を試す - すまほん!!
+https://www.publickey1.jp/blog/26/github_ceoaientire_cligit.html | 元GitHub CEOのドムケ氏、AI時代の開発プラットフォーム「Entire CLI」をオープンソースで公開。すべてのコンテキストをGitに保存 － Publickey
+https://gihyo.jp/book/2026/978-4-297-15456-1 | OpenID Connect入門 | 技術評論社
+https://www.lifehacker.jp/article/2602-matome-google-keep/ | Google Keepでメモ魔になれる。ToDo管理が続かない人ほど試してみて | ライフハッカー・ジャパン
+
+https://www.lifehacker.jp/article/2602-if-you-love-notebooklm-you-need-to-try-this-hidden-google-feature-next/ | NotebookLMに続く「最強の学習ツール」はGeminiの中にあった | ライフハッカー・ジャパン
+https://www.publickey1.jp/blog/26/state_of_javascript_2025react1webpackvite.html | 「State of JavaScript 2025」公開。フロントエンドライブラリはReactがシェアを伸ばして1位、ビルドツールはついにwebpackにviteが追いつく － Publickey
+https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202601 | Web 標準動向 2026年1月版
+https://jp.ign.com/games/82510/news/anlife | 宮崎駿に「極めてなにか生命に対する侮辱を感じます」と批判された技術の開発者、生命体の進化観察シミュレータ『ANLIFE』を発売へ
+https://zenn.dev/mattn/articles/af6b456142dafe | AI Agent yagi を作った
+https://www.gizmodo.jp/2026/02/amazon-timesale-fes-2026-0202-3.html | ハイスペすぎて怖い…。UGREENのモンスターケーブルが過去最安 | ギズモード・ジャパン
+https://blog.g-gen.co.jp/entry/gemini-product-explained | 全Geminiプロダクトを徹底解説！ - G-gen Tech Blog
+https://www.publickey1.jp/blog/26/state_of_javascript_2025react1webpackvite.html | 「State of JavaScript 2025」公開。フロントエンドライブラリはReactがシェアを伸ばして1位、ビルドツールはついにwebpackにviteが追いつく － Publickey
+https://zenn.dev/indigo165e83/articles/42aff74035a248 | JWTという『透明な証明書』をどう扱うか？
+https://dev.classmethod.jp/articles/less-than-greater-than-claude-code/ | <小ネタ>Claude Code で常時コンテキスト使用量を把握できるようにしてみた | DevelopersIO
+https://zenn.dev/mrmtsntr/articles/f88dfa138e4d7e | Fullstack Bun の可能性
+https://zenn.dev/tarouimo/articles/9aace19fa1c271 | Agent TeamsとHooksの統合で分かったこと
+https://qiita.com/Nana_777/items/4d05e92622f928481e29 | 【AWS】KiroのSteeringとAgentSkillsの違い【Kiro】 #AI - Qiita
+https://www.smartnews.com/news/article/4910763334447406003-1070%E5%80%8B%E3%81%AE%E8%B3%87%E6%A0%BC%E3%82%92%E6%8C%81%E3%81%A4%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%8C%E6%B3%A8%E7%9B%AE%E3%80%80%E5%9B%BD%E3%81%8C%E8%AA%8D%E3%82%81%E3%81%9F%E3%80%8C%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E4%BC%B8%E3%81%B3%E3%82%8B%E8%B3%87%E6%A0%BC%E3%80%8D5%E9%81%B8 | 1070個の資格を持つ専門家が注目　国が認めた「これから伸びる資格」5選 | スマートニュース
+https://zenn.dev/yamitake/articles/macports-better-than-homebrew | Homebrewはもう古い。MacPortsという選択肢を本気で推したい
+https://www.gizmodo.jp/2026/02/todo_note.html | 優先順位が自然と決まるって最高。書くだけで整理が進むToDoノートを見つけた | ギズモード・ジャパン
+https://note.com/dandy_lemur4066/n/n6d1ea88fa951 | 「もう戻れない」と思った。作業環境が激変した愛用ガジェット5選！【2026年】｜Ganari
+https://www.lifehacker.jp/article/2602-5-hidden-features-in-apple-notes-that-make-it-a-power-user-tool/ | iPhoneの純正メモってこんなに使える！「最強の仕事道具」に変える5つの隠し技 | ライフハッカー・ジャパン
+https://www.gamespark.jp/article/2026/02/10/162602.html | Discordで『パルワールド』『7 Days To Die』などのゲームサーバーを構築できる！新機能が一部サーバーでテスト中 | Game*Spark - 国内・海外ゲーム情報サイト
+https://qiita.com/ktdatascience/items/dcf6ac2332182a3c905d | Wikipediaの記事を一括収集! Seleniumの1/10のコードで実現するBright Data活用術 #初心者 - Qiita
+https://natalie.mu/comic/news/659514 | 「超かぐや姫！」コミカライズ版1巻が発売　歌でつながる少女たちの絆の物語（試し読みあり） - コミックナタリー
+https://zenn.dev/sonsu/articles/270319f20b0390 | TypeScriptはなぜランタイム構文を作り、なぜ今それを取り除きつつあるのか
+https://zenn.dev/watarukura/articles/20260131-grvtjamwbsojs3v9ksp5lt2ugrkda | ZensicalでGitHub Pages公開する
+https://note.com/kino_11/n/n9ff823248e29 | Antigravityの分からせ方：AIを支配する『4つの階層構造』：グローカルルール (GEMINI.md)、ルール (Rule.md / AGENTS.md)、スキル (Skill)、ワークフロー ｜Kino
+https://forest.watch.impress.co.jp/docs/news/2082928.html | 「Git for Windows」v2.53.0が公開 ～既定エディターに「Microsoft Edit」を指定可能に - 窓の杜
+https://zenn.dev/yamaday/articles/devlopment-env-2026 | 普段の開発環境の紹介
+https://www.lifehacker.jp/article/2601hacks-every-google-chrome-user-should-know/ | Chromeを自分流に「魔改造」する10の設定。これでPC作業の「負担」が減ったよ | ライフハッカー・ジャパン
+https://gigazine.net/news/20260130-open-office/ | 「火曜日に印刷ができなくなる」というUbuntuの謎バグの正体とは？ - GIGAZINE
+https://note.com/gadget_news/n/n10594f30c20c | カバンもデスクも完璧に整う。ガジェットオタクが唸った「神アイテム」まとめ【2026年1月】｜Gadget News編集部 / ガジェット紹介
+https://news.ntv.co.jp/n/ybs/category/culture/ysb89c9ab9da224da7b1687836a306f151 | サンリオ施設 オープンは4月3日 チケットは来月2日から販売 山梨・甲斐市（2026年1月28日掲載）｜YBS NEWS NNN
+https://jetstream.blog/2026/01/31/gemini-drop-january-2026/ | 新機能5つ！2026年1月版「Gemini Drop」 – Jetstream
+https://zenn.dev/asatohan/articles/609329b0fabc77 | DDDを図で理解していく：モデル駆動設計
+https://qiita.com/kotauchisunsun/items/a8409d108cae24888ba0 | Codex CLI猛進。Github Copilotと大差。　～データで見る2026年1月のAI Codingの動向まとめ～ #Gemini - Qiita
+https://zenn.dev/pdfractal/articles/61f676a222d37c | なぜ、「ウォーターフォールでソフトウェアを作れる」という嘘を信じる人が世の中にいるのか？
+https://zenn.dev/storehero/articles/ea5ccc795a86ce | Claude Code × git worktree：Bare Repository 構成のすすめ
+https://www.publickey1.jp/blog/26/bunzigmarkdownhtmlgithub_flavored_markdownreact.html | BunがZig製の高速なMarkdownパーサー搭載。HTMLへのレンダリング、GitHub Flavored Markdown対応、Reactエレメントの生成など － Publickey
+https://zenn.dev/dragon1208/articles/e076e650c96274 | React開発者Dan Abramov氏のRSCの解説がとてもわかりやすいぞ！
+https://note.com/muramitsu/n/nb4b9ad140de6 | Amazon買ってよかったもの10選｜仕事も生活も快適になる【本音の愛用品】｜みつ / mitsu-blog（ガジェットブログ）
+https://qiita.com/ktrk2002/items/c8ed058644beb0023b8a | 【2026年】UIトレンドを調べてみた #Design - Qiita
+https://www.gizmodo.jp/2026/01/amazon-smilesale-editors-buy.html | Amazon スマイルSALEで僕らがガチで買ったもの | ギズモード・ジャパン
+https://zenn.dev/studypocket/articles/complete-guide-to-building-skills-for-claude | Anthropic 公式ガイドで学ぶ Claude Skill 構築についての実践ガイド
+https://note.com/johnn_blog/n/n1c2a70e7899c | 【2026年1月27日～AmazonスマイルSALE】愛用しているガジェット編！｜じょん/ガジェット好き
+https://zenn.dev/t_kanazawa/articles/must-have-antigravity-skills | Google Antigravityでエンジニアが今すぐ作るべきSkills 5選
+https://zenn.dev/zaico/articles/33e4ffc313c0e3 | Claude code v2.1.9で追加されたplansDirectoryをチームで活用する
+https://zenn.dev/longbow/articles/20260123_ai_ready_project | 【GitHub Copilot】 プロジェクトを「AI Ready」にするためにまずは AGENTS.md を作ろう
+https://zenn.dev/take4/articles/8b54f8cd4710bc | Claude Code公式から学ぶ、コンテキスト分離のSubAgent設計
+https://zenn.dev/wild_onion/articles/bf5c3808a80370 | Antigravityの課題点(2026年1月時点)
+https://www.gizmodo.jp/2026/01/how_to_use_lm_studio-thr.html | ｢LM Studio｣ではじめるローカルLLM。“ガチ無料AI”を徹底解説 | ギズモード・ジャパン
+https://note.com/skasahara/n/nc940450473a7 | 細かい仕事のマニュアルは、Antigravityで｜Kasahara Satoru
+https://gigazine.net/news/20260126-gpu-cloud-stability/ | 2万基のGPUを同時管理するクラウド企業がGPUクラスタの安定性の低さを解説 - GIGAZINE
+https://note.com/gadget_news/n/n7aa7b85129a8 | 2026年のデスク周りはこれで決まり！快適すぎて椅子から動けなくなる「悪魔的ガジェット」9選｜Gadget News編集部 / ガジェット紹介
+https://hochi.news/articles/pub_mic_227809.html | プロのやり方なら1日10分、1週間でみるみる片付く！今日から始める「1weekお片付け」 - michill (ミチル) - スポーツ報知
+https://note.com/fumi_gadget/n/n87085e390221 | デスクを整えるだけで仕事が変わる。ミニマル派のデスクガジェット5選【2026年版】｜ふみ@ガジェットOL
+https://www.koukouseishinbun.jp/articles/-/13812 | 「朝5時半起き」で勉強する生活を4年間続けてみた「毎日机に向かう習慣が定着」 - 高校生新聞：10代を応援するニュース＆コンテンツメディア
+https://forest.watch.impress.co.jp/docs/news/2079448.html | 「PowerToys 0.97」が公開 ～コマンド パレットが大幅強化、新しいマウスツールも - 窓の杜
+https://gigazine.net/news/20260119-iconify-open-source-icons/ | 200超のアイコンセットから27万5000点以上のアイコンを集めたオープンソースアイコンライブラリ「Iconify」 - GIGAZINE
+https://gigazine.net/news/20260120-nvidia-annas-archive/ | NVIDIAが海賊版サイト「Anna’s Archive」から500TBのデータ提供を受ける約束をしていたことが判明 - GIGAZINE
+https://logmi.jp/original/serialization/333025 | 「ロジカルだけど素直じゃない部下」の対処法　頑固な社員を行動させる指導術 | ログミーBusiness
+
+https://nazology.kusuguru.co.jp/archives/191393 | 科学的に「エッチな生配信をカップルで見る現象」を調査した研究結果が発表 - ナゾロジー
+https://trilltrill.jp/articles/4564684 | 【セリア】すごいの見つけたよ。さっそく使ってみたくなる文房具3選 | TRILL【トリル】
+https://type.jp/et/feature/30350/ | 「便利なものを作ったら負け」OSS界の巨人・mattnが語る、アウトプットの心理的ハードルとの付き合い方 - エンジニアtype | 転職type
+https://www.gizmodo.jp/2026/02/siroca-2way-dishwasher-ssm171.html | 自由度バク上がりじゃん。食洗機はタンク＆分岐水栓の2Wayが正解だね | ギズモード・ジャパン
+https://sumahodigest.com/?p=53163 | 新型Xperia、国内SIMフリー版2機種の存在が確定 Xperia 1 VIII・10 VIIIか | スマホダイジェスト
+https://rocketnews24.com/2026/02/06/2646395/ | 黄ばんだスマホケースを『オキシ漬け』したらこうなった / TPU素材の変色は復活するのか？ | ロケットニュース24
+https://www.lifehacker.jp/article/2602_businessinsider_jetstream-karimoku/ | 万年筆派が即落ち。カリモク×ジェットストリームの「4&1」が多機能ペンの完成形だ | ライフハッカー・ジャパン
+https://togetter.com/li/2659726 | どんな方法を試しても凍結解除できなかったXアカウントがこの文章を送ると秒で解除されると話題に→諦めていたアカウントが復活したという報告が相次ぐ - Togetter
+https://maidonanews.jp/article/16317621 | 「金髪の自分を見たい」AIに頼んだら美化されすぎ→「リアルに近づけて」で一転　元美容部員が直面した“想像以上の現実”に反響｜まいどなニュース
+https://type.jp/et/feature/30384/ | Metaの精鋭エンジニアたちが「設計の最適解」を導くために頼る一冊。世界規模の開発を支えるシステム設計のバイブル - エンジニアtype | 転職type
+https://gihyo.jp/article/2026/02/daily-linux-260206 | Debian、LLMスクレイピング攻撃でCIデータの公開閲覧を制限 | gihyo.jp
+https://travel.mdpr.jp/travel/detail/4726206 | 「サンリオハウス」ルミネ新宿に1号店 アパレルからコスメ、食品まで揃う新ブランドストア - 女子旅プレス
+https://www.fashion-press.net/news/143051 | サンリオ×マッシュ新ブランドストア「サンリオハウス」新宿に1号店 - アパレルやコスメ、クッキー缶も - ファッションプレス
+https://www.publickey1.jp/blog/26/dockerclaude_codegemini_climicroivmdocker_snadboxwindowsmac.html | Claude CodeやGemini CLIなどのコーディングエージェントを安全に使えるMicroVMベースの分離環境「Docker Sandbox」。WindowsとMacに対応 － Publickey
+
+https://ec.snowmiku.com/categories/7164354 | ポケミクライブ | 雪ミク スカイタウン
+https://www.pokemoncenter-online.com/search/?q=2026%E5%B9%B41%E6%9C%8829%E6%97%A5%E7%99%BA%E5%A3%B2%20%E3%83%9D%E3%82%B1%E3%83%9F%E3%82%AF%2018%20Harmony%20Stage&utm_campaign=mailmag_260128_pk&utm_source=newsletter&utm_medium=email | 2026年1月29日発売 ポケミク 18 Harmony Stageの検索結果｜【公式】ポケモンセンターオンライン
+https://www.pokemoncenter-online.com/4521329435985.html?utm_campaign=mailmag_260128_pk&utm_source=newsletter&utm_medium=email&& | 【受注】フィギュア 初音ミク（エスパー）＆メロエッタ ｜【公式】ポケモンセンターオンライン
+https://www.project-voltage.jp | ポケミク｜Project VOLTAGE 公式サイト
+https://www.project-voltage.jp/live2026/ | ポケミクライブ！｜VOLTAGE Live！ 公式サイト
+https://www.pokemoncenter-online.com/search/?q=%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88+ALL+Season&utm_campaign=mailmag_260128_pk&utm_source=newsletter&utm_medium=email&& | フラワーアレンジメント ALL Seasonの検索結果｜【公式】ポケモンセンターオンライン
+https://www.pokemoncenter-online.com/4521329322247.html | 【受注生産】ピカチュウのフラワーアレンジメント All Season Mサイズ【販売価格に送料を含む】 ｜【公式】ポケモンセンターオンライン
+https://www.pokemoncenter-online.com/search/?q=2025%E5%B9%B411%E6%9C%8813%E6%97%A5%E7%99%BA%E5%A3%B2%20%E5%85%A8%E5%9B%BD%E3%81%9A%E3%81%8B%E3%82%93%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%A0&srule=top-new-product&inStock=1 | 2025年11月13日発売 全国ずかんメタルチャームの検索結果｜【公式】ポケモンセンターオンライン
+
+https://www.pref.saitama.lg.jp/index.html | トップページ - 埼玉県
+https://www.pref.saitama.lg.jp/kouaniinkai/ | 埼玉県公安委員会
+https://www.npa.go.jp/index.html | 警察庁Webサイト
+https://www.npa.go.jp/bureau/cyber/index.html | サイバー警察局｜警察庁Webサイト
+https://www.npa.go.jp/link/index.html | 関連リンク｜警察庁Webサイト
+https://www.bohan.or.jp | 公益財団法人　全国防犯協会連合会
+https://www.dapc.or.jp | 薬物乱用防止「ダメ。ゼッタイ。」ホームページ
+http://fc00081020171709.web3.blks.jp/index.html | fc00081020171709.web3.blks.jp/index.html
+https://www.jsdc.or.jp/Default.aspx | 自動車安全運転センター
+https://www.jartic.or.jp | 日本道路交通情報センター：JARTIC
+https://www.itarda.or.jp | 交通事故総合分析センター
+https://www.vics.or.jp/index.html | VICS｜一般財団法人 道路交通情報通信システムセンター
+https://www.kokusen.go.jp/mimamori/index.html | 見守り情報（高齢者・障がい者・子ども・若者のトラブル防止）_国民生活センター
+
 https://zenn.dev/ymat19/articles/9107170744368f | tmux, gwq, fzfでworktreeをサクサク切り替えてAIコーディングを並列する
 https://zenn.dev/wakinoza/articles/41d2505a0cb482 | Dockerfileのベストプラクティスについて
 https://zenn.dev/cahalinc/articles/ec8ee464d526c8 | 【次世代LLM】Engram解説：記憶と推論を分離し、「思考の深さ」を最大化する新アーキテクチャ
