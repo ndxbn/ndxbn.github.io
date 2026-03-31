@@ -1,3 +1,95 @@
+https://zenn.dev/atsushifx/articles/winget-install_basic | Windows: winget: wingetでの基本的なアプリのインストール方法
+https://wiki.archlinux.jp/index.php/XDG_Base_Directory | XDG Base Directory - ArchWiki
+https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#%E5%A4%89%E6%95%B0%E3%81%AE%E5%AE%9A%E7%BE%A9 | 環境変数 - ArchWiki
+https://help.ubuntu.com/community/EnvironmentVariables | EnvironmentVariables - Community Help Wiki
+https://wiki.archlinux.jp/index.php/Xdg-utils#%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0 | xdg-utils - ArchWiki
+https://wiki.archlinux.jp/index.php/XDG_%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA | XDG ユーザーディレクトリ - ArchWiki
+https://specifications.freedesktop.org | Freedesktop.org Specifications
+https://specifications.freedesktop.org/basedir/latest/ | XDG Base Directory Specification
+https://specifications.freedesktop.org/fhs/latest/ | Filesystem Hierarchy Standard
+https://specifications.freedesktop.org/menu/latest/ | Desktop Menu Specification
+https://www.freedesktop.org/wiki/Specifications/ | Specifications
+https://www.freedesktop.org/wiki/Software/ | Software
+https://www.freedesktop.org/wiki/Software/xdg-user-dirs/ | xdg-user-dirs
+
+https://www.gizmodo.jp/2026/03/msi-pro-mp2412-review-0p2.html | あまりのコスパのよさに追加購入。サブモニターに最適です | ギズモード・ジャパン
+https://nazology.kusuguru.co.jp/archives/192891/2 | 「22万人の指」を調べたら「人差し指と薬指」の長さ比が性的指向と関係していた (2/2) - ナゾロジー
+https://rocketnews24.com/2026/03/16/2722403/ | 【WBC敗退】Netflixを解約しようとしたらできない / 原因はLINEプレミアムだった | ロケットニュース24
+https://www.publickey1.jp/blog/26/javascriptvite.html | JavaScriptの統合ツールチェーン「Vite+」がオープンソースで公開 － Publickey
+https://nazology.kusuguru.co.jp/archives/192946 | 第1子と第2子には生後6か月の段階で発達に大きな違いがあると判明 - ナゾロジー
+https://studyhacker.net/madoka-sawa-interview602 | 人を動かす話し方には、3つの「黄金則」がある - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://kai-you.net/article/94903 | “元戦場カメラマン”のVTuber旅野そら、初のリアルイベントを新宿で開催 - KAI-YOU
+https://mi-mollet.com/articles/-/58889 | 【ロフトで異変あり】まさかの…ノート売上が手帳を上回った！大人が夢中になったノート＆カスタマイズ法 | mi-mollet NEWS FLASH<br>Lifestyle | mi-mollet（ミモレ） | 明日の私へ、小さな一歩！（1/3）
+https://www.publickey1.jp/blog/26/vitewebvoidcloudflare.html | ViteネイティブなWebプラットフォーム「Void」発表。Cloudflareの上に構築されたフルスタックの実行環境 － Publickey
+https://smhn.info/202603-korea-google-maps-approval | 韓国、Googleの地図データ国外持ち出しを条件付き承認　19年越しの決着 - すまほん!!
+https://rocketnews24.com/2026/03/15/2721210/ | 【追記あり】「実はそいつが一番安いんだよ」 / コスパ重視の知人に「炊飯」を辞めさせたイオンの激安「パックご飯」がガチだった | ロケットニュース24
+https://gihyo.jp/article/2026/03/nodejs-vfs | Node.js、仮想ファイルシステムを実装へ | gihyo.jp
+https://rocketnews24.com/2026/03/17/2716309/ | 2万円AndroidからiPhoneに変えたら「UIの力」を痛感した / そして振り返るAndroidにして良かったこと・悪かったこと | ロケットニュース24
+https://smhn.info/202603-wena-x-worlds-smallest-smartwatch-crowdfunding | 【朗報】ソニーから独立！復活初号機は小型「wena X」、腕時計合体はもちろん独立スマートバンドにも - すまほん!!
+https://gigazine.net/news/20260317-nvidia-dlss-5/ | NVIDIAのAIアップスケーリング技術「DLSS 5」が加工しすぎで本物からかけ離れてしまうとネットユーザーにいじり倒される - GIGAZINE
+
+https://kunkoku.jp/xperia1vii-update202603-2.html | Xperia 1 VII SO-51F、Xperia 10 VII SO-52Fに本体ソフトウェアアップデート配信。セキュリティパッチレベル2026年2月。Ver.71.1.A.2.144、72.1.A.2.144。 - ソニーが基本的に好き。| ソニーショップくんこく
+https://www.inside-games.jp/article/2026/03/09/178353.html | どういうことなの…事務所を「卒業」したVTuber、一転して「契約解除」になり法的措置へ | インサイド
+https://smhn.info/202603-chuwi-corebook-x-cpu-spoofing | 【悲報】CPU偽装。旧世代品を新世代品、ツーウェイが偽っていたことが判明 - すまほん!!
+https://rocketnews24.com/2026/03/09/2718578/ | 【検証】セブンイレブンの「すじこのおにぎり」にほぼすじこが入っていないと話題 → 10個買って確かめてみた | ロケットニュース24
+https://smhn.info/202603-docomo-google-messages-default-android | プラスメッセージ……。ドコモ、ついにAndroid標準メッセージアプリを「Googleメッセージ」に変更 - すまほん!!
+https://gigazine.net/news/20260310-anthropic-claude-code/ | Anthropicがプルリクエストのバグを自動検出する「Code Review」を発表、1回あたりのトークン使用量は平均2400円分から - GIGAZINE
+https://gigazine.net/news/20260309-anthropic-supply-chain-risk/ | 国防総省がサプライチェーンリスクに指定したAnthropicにGoogle・Amazon・Microsoftが防衛関連以外で協力表明、一方「なぜ指定したのか」について国防総省のAI担当者が語る - GIGAZINE
+https://feedly.com/i/collection/content/user/78f339e1-6df2-452f-b79d-8c6a8dfcb388/category/0064a89f-4621-44f3-ab42-f0d77b1c8497 | FF14
+
+https://qiita.com/advent-calendar/2025/ranking | 各カテゴリーのトップ3 | Advent Calendar 2025 - Qiita
+https://qiita.com/mendoitarou_/items/843e72442908a7689ee0 | ConoHaのMCPをGitHub Copilotで使ってみる #Conoha - Qiita
+https://qiita.com/mendoitarou_/items/b72f060b8b211b127ef5 | ConoHaのサーバコンソールに楽々アクセスするためのCLIツールを作った #Node.js - Qiita
+https://qiita.com/mendoitarou_/items/20c48e45668a22a4026b | 作ったしょうもないツールとかを供養(紹介)する #Python - Qiita
+https://qiita.com/mendoitarou_/items/a1d802371f7a05d1fa1e | 1Password CLIの環境変数をバッチファイルで使う #Windows - Qiita
+https://qiita.com/mendoitarou_/items/fb444e496e093df565bd | MinecraftサーバをTailscaleを使って外部公開してみた #minecraft - Qiita
+https://qiita.com/mendoitarou_/items/e13fcca2a3335e349bfc | Antigravity使ってみた #Antigravity - Qiita
+https://qiita.com/mendoitarou_/items/b9da28ea97307c71ab37 | Advent Callendar 2025 を完走した感想 #ポエム - Qiita
+
+https://www.lifehacker.jp/article/amazon-sale-shinseikatsu-echosow11/ | 11インチの「ちょうどいい」サイズ。動画・レシピ・音楽がこれ1台で楽しめる | ライフハッカー・ジャパン
+https://www.techno-edge.net/article/2026/03/06/4899.html | 家庭用PCで使える無料OCRツール「NDLOCR-Lite」を国立国会図書館が公開、生成速度が世界最速と謳う拡散型LLM「Mercury 2」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge
+https://kai-you.net/article/94814 | VTuberに投げ銭してるつもりが貯金できてしまうアプリ『貯金彼女』を学生が開発 - KAI-YOU
+https://smhn.info/202603-appcloud-android-bloatware | 日本の大手携帯キャリア販売スマホには、怪しいアプリが混入・蔓延。「削除不可能なスパイウェア」との批判も - すまほん!!
+https://rocketnews24.com/2026/03/04/2716613/ | 米高騰から1年。業務スーパーの最安米が安くなってる？ 2026年3月の価格を1年前と比べてみた | ロケットニュース24
+
+https://qiita.com/YushiYamamoto/items/de6c1ba8ebbd4a20d8ee | n8nで「魂」をJSON化したら、毎朝8時に10言語でアフィリエイト記事を自動生成する化け物パイプラインが完成した話 #生成AI - Qiita
+https://zenn.dev/kenfdev/articles/222fe622d42f0d | devcontainer + git worktree で並列開発するぞ！
+https://zenn.dev/mima_ita/articles/b7fe9f5daa260e | 実装を通じて理解する MCP の基礎
+https://zenn.dev/gatechnologies/articles/8f73b2d6e4f136 | 仕事でObsidianをどのように使っているか
+https://zenn.dev/knowledgework/articles/1e176605a3c6e3 | 静的解析からみるGoの過去と未来
+https://www.docswell.com/s/yuma/57472V-2026-02-26-wakecareer | 2026年2月版 GitHub Copilotでバックエンドのバイブコーディングを極めた話 | ドクセル
+https://gihyo.jp/admin/serial/01/ubuntu-recipe/0901 | 第901回　さらに進化したUptime Kumaで、家庭内監視システムを構築する | gihyo.jp
+https://kakakakakku.hatenablog.com/entry/2026/02/26/090227 | Google Docs に Mermaid 記法の図表をシュッと登録できる「Mermaid for Google Docs」 - kakakakakku blog
+https://qiita.com/shyamagu/items/4e2d30a24594c005a02f | GitHub Copilot CLIの/researchが強い #GitHubCopilot - Qiita
+https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2088296.html | 【やじうまミニレビュー】品薄続出で話題！4千円台のAmazonベーシック製“大型トラックパッド”は使いやすい？ - PC Watch
+https://zenn.dev/lluminai_tech/articles/b6e7ed2922ea0c | Naive RAG vs 進化系RAGを比較してみた
+https://future-architect.github.io/articles/20260227a/ | DynamoDB設計ガイドラインを公開しました | フューチャー技術ブログ
+https://zenn.dev/jy8752/articles/3653cfad23a0bc | 壊れやすいテストとは？ 「単体テストの考え方/使い方」(古典学派)と「実践テスト駆動開発」(ロンドン学派)を読んで考える
+https://qiita.com/horyyyyyy/items/5befc1eeffa01cab45d7 | 【無料】ブラウザ上で電子工作をシミュレートできる”Tinkercad”が便利すぎてヤバい #Arduino - Qiita
+https://qiita.com/HinanoKawahori/items/46c3e8c9a2278914a40c | 【ポエム】ATMについて #atm - Qiita
+https://zenn.dev/mixi/articles/c79c079ecb35d2 | 型アノテーション付きYAMLから RBS を生成する
+https://forest.watch.impress.co.jp/docs/serial/vibcode/2088590.html | 無料の「Google AI Studio」で爆速開発！ 要望を伝えまくったら、早くもアプリが完成してしまった - プロと実践！ ゼロから始めるバイブコーディング - 窓の杜
+https://pc.watch.impress.co.jp/docs/news/yajiuma/2088732.html | 【やじうまPC Watch】容量わずか64KBのFPS「QUOD」。狂気のデータ圧縮と開発手法とは - PC Watch
+https://www.gizmodo.jp/2026/02/otonoha-ewh.html | 楽器やスピーカーの｢聞こえ｣が変わる不思議なボード | ギズモード・ジャパン
+https://studyhacker.net/yoshihiro-ikeda-interview302 | 覚えても、すぐ忘れる人が増えている。生成AI時代に記憶の専門家がすすめる「朝1分」習慣 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://type.jp/et/feature/30535/ | エンジニアを苦しめる「言語化力」の正体。鍛えようと努力しても、迷走してしまう理由とは？ - エンジニアtype | 転職type
+https://dev.classmethod.jp/articles/ai-driven-gtd-zettelkasten/ | 「考える」から「判断する」へ、Claude Codeを中心に置いたタスク・ナレッジ管理 | DevelopersIO
+https://www.audio-technica.co.jp/always-listening/articles/audio-cable-basics-02/ | RCAとXLRはどっちが良い？違いと使い分け 〜 バランス・アンバランス接続の基礎知識【後編】 - Always Listening by Audio-Technica（オーディオテクニカ）
+https://qiita.com/kuma_3838/items/b9073cce25766508485a | MinIO、知らないうちに終了していた #Docker - Qiita
+https://zenn.dev/kyome/articles/b45c9c7d6eaa76 | そのMarkdown、Webサイトに進化します。
+https://zenn.dev/atani/articles/gh-attach-replaced-by-playwright-cli | 自作CLIツールの役目が終わる日 — gh-attachをplaywright-cliが代替した話
+https://note.com/notion_dx/n/na56285721272 | Notionで集めて、NotebookLMで深掘る：YouTube学習を「統合レポート」で資産化するやり方｜町工場の社長が楽になる！実践済みNotion活用法
+https://qiita.com/kikuziro/items/4d732a43ac5cdf9daadc | 技術記事、硬すぎ問題。だからギャルに読ませてみた #AWS - Qiita
+https://zenn.dev/t_o_d/articles/864483fba2ca60 | だいたい非AI系のGitHubトレンドをnushellで収集および記録する
+https://zenn.dev/curry_battle/articles/9aa9ce2d1a18ec | Webサイトの認証をPlaywright MCPに突破させ、認証情報を保持する (Storage State)
+https://zenn.dev/hideyuki_hori/articles/c11c64d9315e19 | Rust × KurrentDBでEventSourcingをやってみた
+https://www.publickey1.jp/blog/26/awskiro_09.html | AWS、サブエージェントごとにフロントエンド担当、バックエンド担当などカスタマイズによる高性能化が可能な「Kiro 0.9」リリース － Publickey
+https://qiita.com/hatahatahata/items/b2cec428c1d3c7cced5d | [読書メモ]再考・ログ設計　障害に強いアプリケーションのログ出力・管理の極意（Software Design 2026年3月号） #AWS - Qiita
+https://zenn.dev/ashunar0/articles/15f2de063752dd | MCP使わなくてもCLIで十分じゃない？？ Claude Codeのコンテキスト戦略
+https://zenn.dev/shineos/articles/ai-test-generation-strategies | 【テスト自動化】テストコードを書く時間がない？AIに「意味のあるテスト」を書かせる戦略
+https://qiita.com/cvusk/items/cb879d6168a0bf7bb307 | OpenCode の技術を徹底解剖 - 10 の設計要素 - #AIエージェント - Qiita
+https://zenn.dev/uchidaryo/articles/2026-02-small-dev-tech-selection | 小規模開発における本番環境の技術選定
+
 https://forest.watch.impress.co.jp/docs/news/2088188.html | GPUなしで動作する軽量なAI OCRツール「NDLOCR-Lite」、国会図書館のラボから無償公開 - 窓の杜
 https://www.gizmodo.jp/2026/02/smart_gears-uvi.html | 備えあればうれしいな。リュックに付けるだけで生活がよりスマートになるギア | ギズモード・ジャパン
 https://www.gizmodo.jp/2026/02/stream-ring-ai-recorder-yos.html | もうメモアプリはいらない。話しかけてくる指輪型AIレコーダー｢Stream Ring｣ | ギズモード・ジャパン
@@ -7,7 +99,6 @@ https://zenn.dev/t_o_d/articles/2a32e0ca0ee048 | 旬のGitHubリポジトリをn
 
 https://smhn.info/202602-switchbot-pad-pro | 自宅にまさかの「静脈認証」設置!? ブッ飛んでる「SwitchBot 顔認証パッド Pro」レビュー - すまほん!!
 https://www.lifehacker.jp/article/2602-typeless-ai-voice-typing-android/?page=2 | Androidの音声入力は「Typeless」一択。使ってみたらタイピングが馬鹿らしくなった | ライフハッカー・ジャパン
-https://www.roomie.jp/2026/02/1717105/ | 買ってよかった「手帳活」が捗るアイテム、3選 | ROOMIE（ルーミー）
 https://nazology.kusuguru.co.jp/archives/191960 | 先延ばし癖のある人は、実は『隠れた才能』を持っている可能性 - ナゾロジー
 https://xenospectrum.com/ddr5-memory-price-correction-europe-supply-shortage/ | DDR5メモリ価格が日本や欧州で一部下落：「供給不足の中の値崩れ」が意味するものとは | XenoSpectrum
 https://gihyo.jp/article/2026/02/text-based-wireframe-tools | プレーンテキストで出力するワイヤーフレームツール「Mockdown」「Wiretext」が相次いで公開 ——テキスト形式のワイヤーフレームをエージェントに渡し、UIコードの生成を目指す | gihyo.jp
