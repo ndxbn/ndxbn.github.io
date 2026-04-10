@@ -1,3 +1,27 @@
+https://nazology.kusuguru.co.jp/archives/193853 | ADHDの症状は3つでなく「9つのカテゴリー」に分けられる - ナゾロジー
+https://gigazine.net/news/20251122-lazygit/ | GitをCUIで強力にサポートする超高機能ツール「lazygit」 - GIGAZINE
+https://gigazine.net/news/20241112-shipping-is-hard/ | ITプロジェクトを成功させるには「リリースの難しさ」を認識することが大切 - GIGAZINE
+https://gigazine.net/news/20190621-things-i-learnt-the-hard-way/ | プログラマーを30年間やってきた経験から学んだことまとめ - GIGAZINE
+https://gigazine.net/news/20250408-git-20-years-linus-torvalds/ | 「Git」誕生から20周年を記念してリーナス・トーバルズ氏が開発初期の裏事情や使用頻度の高いコマンドなどを明かす - GIGAZINE
+https://wired.jp/article/chatgpt-study-aid-impairs-long-term-knowledge-retention/ | 生成AIを使った勉強は、知識の定着を妨げる：研究結果 | WIRED.jp
+https://gigazine.net/news/20260408-chatgpt-learning-memory-retention/ | ChatGPTは学習を速める一方で長期記憶には残りにくい可能性がある - GIGAZINE
+
+https://www.toei-anim.co.jp/tv/precure/news/2026040901.php | キュアアルカナ・シャドウ大作戦　スタート！| ニュース｜名探偵プリキュア！ | 東映アニメーション
+https://www.toei-anim.co.jp/precure_prettystore/ | プリキュア プリティストア | 東映アニメーション
+https://museum.toei-anim.co.jp | 東映アニメーションミュージアム
+https://toy.bandai.co.jp/ja/series/precure/topics/01_20437/ | 【対象商品を買うともらえる！】名探偵プリキュア！ボイスカードもらっちゃおキャンペーン♥が4月25日(土)よりスタート！ | トピックス | プリキュアおもちゃウェブ | バンダイ公式サイト
+
+https://gigazine.net/news/20260401-ndlocr-lite-web-ai/ | ウェブブラウザ単体でOCR処理を実行してAIで校正までできる「NDLOCR-Lite Web AI」レビュー、国立国会図書館のNDLOCR-Liteを簡単に利用可能にしたウェブアプリ - GIGAZINE
+https://zenn.dev/sun_asterisk/articles/665f05f1b584dd | ログ設計：基礎から応用まで
+https://qiita.com/nogataka/items/d6c83ea50b82e1c2602c | 100行のCLAUDE.mdより35行が効く理由 — 公式仕様で解く設定の最適化 #ClaudeCode - Qiita
+https://studyhacker.net/para-note | 仕事の流れがスッとわかる｜仕事の全体像が見えるノートのつくり方 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習
+https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202603 | Web 標準動向 2026年3月版
+https://zenn.dev/acntechjp/articles/20260329_linux | よう若いの。Linuxってのはだな。
+https://qiita.com/ktdatascience/items/001a7c7d3a35d797ddcb | データアナリスト3年目が語る「教科書に載ってない」現場のリアル #初心者 - Qiita
+https://gigazine.net/news/20260329-craftplan/ | 妻のパン屋のために作ったERP「Craftplan」、小ロットの受注生産を念頭にワークフローが設計されておりオープンソースでセルフホスト可能 - GIGAZINE
+https://www.lifehacker.jp/article/2603-ugreen-charging-nas-integration/ | もう悩まない、探さない。UGREENの2台で完成する一生モノのデスク環境＆データの「定位置」 | ライフハッカー・ジャパン
+https://gigazine.net/news/20260401-visualping/ | ウェブサイトが更新されたら通知してくれる無料ツール「Visualping」 - GIGAZINE
+
 https://zenn.dev/atsushifx/articles/winget-install_basic | Windows: winget: wingetでの基本的なアプリのインストール方法
 https://wiki.archlinux.jp/index.php/XDG_Base_Directory | XDG Base Directory - ArchWiki
 https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#%E5%A4%89%E6%95%B0%E3%81%AE%E5%AE%9A%E7%BE%A9 | 環境変数 - ArchWiki
