@@ -1,3 +1,11 @@
+https://gigazine.net/news/20260430-ghostty-leave-github/ | 人気ターミナル「Ghostty」がGitHubからの離脱を表明、開発者が「何が不満なのか」を語る - GIGAZINE
+https://wired.jp/article/openai-really-wants-codex-to-shut-up-about-goblins/ | OpenAIはCodexで「ゴブリン問題」に直面している | WIRED.jp
+https://gigazine.net/news/20260501-gpt-5-5-cyber-capabilities/ | GPT-5.5が「ネットワーク完全乗っ取り攻撃」を自律的に成功、Claude Mythos Previewに続いて2例目 - GIGAZINE
+https://gigazine.net/news/20260424-openai-gpt-5-5/ | OpenAIが「GPT-5.5」をリリース、Claude Opus 4.7を上回る性能 - GIGAZINE
+https://smhn.info/202605-apple-rethinks-magsafe-removal-iphone-17e-revival-rumor | 【悲報】Apple、MagSafe廃止検討との噂 - すまほん!!
+https://gihyo.jp/article/2026/04/zed-1-0 | Zed 1.0リリース ―「完成」を意味するものではなく、多くの開発者がすぐに馴染めるようになった「転換点」、週次リリースは継続 | gihyo.jp
+https://nazology.kusuguru.co.jp/archives/194583 | 158年信じられてきた幾何学のルール、ドーナツ2つで覆される――「部分を測っても全体は決まらない」 - ナゾロジー
+
 https://nazology.kusuguru.co.jp/archives/193853 | ADHDの症状は3つでなく「9つのカテゴリー」に分けられる - ナゾロジー
 https://gigazine.net/news/20251122-lazygit/ | GitをCUIで強力にサポートする超高機能ツール「lazygit」 - GIGAZINE
 https://gigazine.net/news/20241112-shipping-is-hard/ | ITプロジェクトを成功させるには「リリースの難しさ」を認識することが大切 - GIGAZINE
